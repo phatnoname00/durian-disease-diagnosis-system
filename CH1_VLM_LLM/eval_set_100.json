@@ -1,0 +1,1303 @@
+[
+ {
+  "id": "Q001",
+  "question": "Giai đoạn đầu, vết bệnh trên lá thường xuất hiện ở vị trí nào và trông như thế nào?",
+  "disease_key": "Rhizoctonia",
+  "disease": "Bệnh cháy lá, chết ngọn (Rhizoctonia sp.)",
+  "section": "symptoms",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "chaylachetngon_109"
+  ],
+  "gold_context": "Bệnh cháy lá chết ngọn do Rhizoctonia solani có thể được nhận diện thông qua nhiều giai đoạn triệu chứng. Ở giai đoạn khởi phát, các vết bệnh thường xuất hiện trên những lá nằm khuất trong tán hoặc gần mặt đất, nơi có độ ẩm cao. Tại mép lá hoặc chóp lá xuất hiện những vết giống như bị dội nước sôi, có màu xanh tái, sũng nước và chưa có ranh giới rõ ràng với phần lá khỏe. Vết bệnh thường bắt đầu từ rìa lá rồi lan dần vào phía gân chính theo dạng vòng cung hoặc loang lổ. Đây là giai đoạn cần được phát hiện sớm để hạn chế sự phát triển và lan rộng của bệnh trên tán cây.",
+  "source": "nongnghiepdemen.vn-Bệnh Cháy Lá Chết Ngọn Sầu Riêng Cách Phòng Trị Hiệu Quả.pdf"
+ },
+ {
+  "id": "Q002",
+  "question": "Lá bị bệnh có thể biến dạng ra sao, và vì sao các lá trên cành non lại dính vào nhau?",
+  "disease_key": "Rhizoctonia",
+  "disease": "Bệnh cháy lá, chết ngọn (Rhizoctonia sp.)",
+  "section": "symptoms",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "chaylachetngon_102"
+  ],
+  "gold_context": "Triệu chứng bệnh cháy lá chết ngọn có thể xuất hiện trên cả lá non và lá già của cây sầu riêng. Ban đầu, trên lá hình thành những đốm màu nâu sũng nước, khiến vùng lá bị bệnh có màu xanh đậm hơn. Sau đó, vết bệnh lan rộng dọc theo hai mép lá, làm lá không phát triển bình thường. Lá có thể bị co dúm, dần trở nên khô rồi rụng. Trên các cành non, những lá bị bệnh có thể dính lại với nhau do các sợi tơ nấm phát triển và kết dính bề mặt lá. Sau một thời gian, các lá này khô dần và chết. Những biểu hiện trên lá cần được theo dõi sớm vì bệnh có thể tiếp tục ảnh hưởng đến cành non, ngọn và khả năng sinh trưởng của cây.",
+  "source": "nongnghiepavn.pdf"
+ },
+ {
+  "id": "Q003",
+  "question": "Vết bệnh trên lá có hình dạng cố định không, và màu sắc thay đổi thế nào theo thời gian?",
+  "disease_key": "Rhizoctonia",
+  "disease": "Bệnh cháy lá, chết ngọn (Rhizoctonia sp.)",
+  "section": "symptoms",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "chaylachetngon_054"
+  ],
+  "gold_context": "Vết bệnh do Rhizoctonia solani thường không có hình dạng cố định. Ban đầu, vết bệnh có thể xuất hiện dưới dạng đốm tròn hoặc bầu dục, sau đó lan rộng và kết hợp thành những mảng lớn có đường viền không đều. Một số vết bệnh có thể tạo hình giống mạng nhện hoặc hình chân chim, thậm chí bao phủ một phần lớn phiến lá. Màu sắc vết bệnh thường thay đổi theo quá trình phát triển, bắt đầu từ xanh tối giống mô bị úng nước, sau đó chuyển sang nâu nhạt, nâu xám hoặc xám tro. Khi mô lá chết hoàn toàn, vết bệnh có thể chuyển sang nâu đậm hoặc gần như đen, với ranh giới tương đối rõ giữa mô bệnh và mô khỏe.",
+  "source": "ecomco.pdf"
+ },
+ {
+  "id": "Q004",
+  "question": "Trên mô bệnh có thể quan sát thấy sợi nấm màu gì?",
+  "disease_key": "Rhizoctonia",
+  "disease": "Bệnh cháy lá, chết ngọn (Rhizoctonia sp.)",
+  "section": "symptoms",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "chaylachetngon_132"
+  ],
+  "gold_context": "Triệu chứng bệnh cháy lá sầu riêng trên lá thường bắt đầu bằng những đốm nâu sũng nước. Các đốm bệnh có thể mở rộng theo chiều dọc của lá, khiến lá không phát triển bình thường, co rúm và cuối cùng khô rồi rụng. Vết bệnh có thể xuất phát từ chóp lá hoặc rìa lá. Trên mô bệnh, người trồng có thể quan sát thấy các sợi nấm màu vàng nhạt xuất hiện và lan dần ra. Ở cành non, những lá bị bệnh có thể dính lại với nhau do sự phát triển của tơ nấm có tính kết dính, sau đó khô và chết. Trên cây non, bệnh làm cháy và rụng ngọn, tiếp theo là hiện tượng khô và chết ngọn. Đối với cây trưởng thành, lá non có thể khô rụng, đồng thời xuất hiện chết ngọn, khô cành và nhánh nhỏ.",
+  "source": "sataka.pdf"
+ },
+ {
+  "id": "Q005",
+  "question": "Bệnh này do tác nhân nào gây ra, và tác nhân đó còn gây hại ở bộ phận nào khác của cây?",
+  "disease_key": "Rhizoctonia",
+  "disease": "Bệnh cháy lá, chết ngọn (Rhizoctonia sp.)",
+  "section": "causes",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "chaylachetngon_123"
+  ],
+  "gold_context": "Bệnh cháy lá chết ngọn trên cây sầu riêng được gây ra bởi nấm Rhizoctonia sp. Trong điều kiện ẩm ướt, sợi nấm và hạch nấm có thể phát triển trên bề mặt vết bệnh, sau đó lan nhanh sang các lá lân cận. Nấm bệnh còn có khả năng tấn công rễ và phần gốc cây, làm giảm khả năng hấp thụ nước và chất dinh dưỡng. Khi hệ thống rễ bị ảnh hưởng, cây sầu riêng có thể suy yếu và dễ xuất hiện triệu chứng cháy lá, chết ngọn. Ngoài ra, bệnh có thể lây lan từ cây này sang cây khác thông qua gió. Những yếu tố canh tác như đất quá ẩm, ngập úng, mật độ trồng dày, bón phân không cân đối, thừa đạm, thiếu dinh dưỡng trung vi lượng và cắt tỉa không hiệu quả cũng tạo điều kiện cho bệnh phát triển.",
+  "source": "nongnghiepsofa.com-BỆNH CHÁY LÁ CHẾT NGỌN TRÊN CÂY SẦU RIÊNG  NGUYÊN NHÂN DẤU HIỆU  BIỆN PHÁP PHÒNG NGỪA.pdf"
+ },
+ {
+  "id": "Q006",
+  "question": "Bệnh xuất hiện ở những giai đoạn nào của cây, và nhiệt độ, thời tiết nào thì bệnh phát triển mạnh?",
+  "disease_key": "Rhizoctonia",
+  "disease": "Bệnh cháy lá, chết ngọn (Rhizoctonia sp.)",
+  "section": "causes",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "chaylachetngon_140"
+  ],
+  "gold_context": "Bệnh cháy lá chết ngọn trên cây sầu riêng do nấm Rhizoctonia solani Kuhn gây ra. Bệnh có thể xuất hiện ở nhiều giai đoạn phát triển của cây, từ giai đoạn cây con trong vườn ươm đến cây trưởng thành đang trong thời kỳ kinh doanh. Bệnh phát triển mạnh trong điều kiện mưa nhiều, độ ẩm không khí cao và nhiệt độ thích hợp khoảng 28°C. Theo nguồn tài liệu, nấm bệnh có thể gây hại trên lá, đọt và các bộ phận khác của cây. Việc bệnh xuất hiện ở nhiều giai đoạn sinh trưởng khiến quá trình chăm sóc và quản lý vườn cần được thực hiện thường xuyên nhằm phát hiện sớm các dấu hiệu bất thường và hạn chế thiệt hại do bệnh gây ra.",
+  "source": "sinhhocchaua.com-Kiểm soát bệnh cháy lá chết ngọn sầu riêng.pdf"
+ },
+ {
+  "id": "Q007",
+  "question": "Tác nhân gây bệnh là loại nấm gì, và nó tấn công những bộ phận nào của cây?",
+  "disease_key": "Rhizoctonia",
+  "disease": "Bệnh cháy lá, chết ngọn (Rhizoctonia sp.)",
+  "section": "causes",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "chaylachetngon_160"
+  ],
+  "gold_context": "Bệnh cháy lá, chết ngọn trên cây sầu riêng được tài liệu xác định có liên quan đến nấm Rhizoctonia sp., một loại nấm đa thực có khả năng gây hại trên nhiều loại cây trồng. Đối với cây sầu riêng, nấm có thể tấn công cả lá già, lá non và đọt non. Việc gây hại trên nhiều bộ phận non của cây khiến bệnh có khả năng ảnh hưởng đến quá trình sinh trưởng và duy trì bộ lá. Tài liệu nhấn mạnh rằng bộ lá đóng vai trò quan trọng trong quá trình quang hợp, tổng hợp năng lượng và nuôi dưỡng cây, đặc biệt là giai đoạn nuôi trái. Khi nấm gây tổn thương bộ lá và đọt non, cây có thể bị suy giảm khả năng phát triển và duy trì sức khỏe.",
+  "source": "thiennong.pdf"
+ },
+ {
+  "id": "Q008",
+  "question": "Điều kiện thời tiết nào thuận lợi cho bệnh phát sinh, và bệnh lây lan nhanh như thế nào?",
+  "disease_key": "Rhizoctonia",
+  "disease": "Bệnh cháy lá, chết ngọn (Rhizoctonia sp.)",
+  "section": "conditions",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "chaylachetngon_002"
+  ],
+  "gold_context": "Các điều kiện thuận lợi cho bệnh cháy bìa lá sầu riêng gồm nhiệt độ khoảng 28°C, độ ẩm cao và mưa nhiều. Trong môi trường này, nấm Rhizoctonia solani có điều kiện sinh sôi và tấn công cây. Nguồn cũng mô tả bệnh có khả năng lây lan nhanh từ lá này sang lá khác và từ cây này sang cây khác, khiến người trồng khó phát hiện và xử lý kịp thời. Vì vậy, khi điều kiện thời tiết thuận lợi cho nấm phát triển, người trồng cần chú ý theo dõi tình trạng lá, thân non và phần ngọn cây. Việc phát hiện sớm các dấu hiệu bất thường có ý nghĩa trong quá trình lựa chọn biện pháp xử lý phù hợp theo hướng dẫn của nguồn.",
+  "source": "bacsicayxanh.pdf"
+ },
+ {
+  "id": "Q009",
+  "question": "Bệnh thường xuất hiện vào thời điểm nào, nhất là sau giai đoạn chăm sóc nào của vườn?",
+  "disease_key": "Rhizoctonia",
+  "disease": "Bệnh cháy lá, chết ngọn (Rhizoctonia sp.)",
+  "section": "conditions",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "chaylachetngon_036"
+  ],
+  "gold_context": "Bệnh cháy lá chết ngọn do nấm Rhizoctonia solani có xu hướng phát triển mạnh trong điều kiện thời tiết mùa mưa và môi trường ẩm thấp. Theo nguồn tài liệu, đây là thời điểm thuận lợi cho nấm sinh trưởng, phát triển và gây hại trên cây sầu riêng. Bệnh thường xuất hiện sau thu hoạch, khi cây được chăm sóc để tạo cơi đọt mới. Trong giai đoạn này, nhà vườn cần chú ý theo dõi các biểu hiện bất thường trên lá và ngọn cây. Nguồn cũng lưu ý rằng rầy xanh có thể gây triệu chứng cháy lá tương tự, do đó cần xem xét nguyên nhân gây hại trước khi áp dụng biện pháp phòng trừ. Nội dung này được ghi nhận theo điều kiện phát sinh được trình bày trong tài liệu.",
+  "source": "dongthapsenhong.pdf"
+ },
+ {
+  "id": "Q010",
+  "question": "Những hoạt chất nào được đề cập để kiểm soát nấm gây bệnh, và khi phun cần chú ý gì?",
+  "disease_key": "Rhizoctonia",
+  "disease": "Bệnh cháy lá, chết ngọn (Rhizoctonia sp.)",
+  "section": "treatment",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "chaylachetngon_087"
+  ],
+  "gold_context": "Đối với việc xử lý bệnh cháy lá sầu riêng do nấm, tài liệu đề cập một số hoạt chất có khả năng kiểm soát nấm Rhizoctonia, trong đó có Hexaconazole và Validamycin. Ngoài các hoạt chất này, tài liệu cũng đề cập đến việc sử dụng các dòng thuốc có chứa gốc đồng để sát khuẩn. Khi phun thuốc, cần phun đều trên cả hai mặt lá và các cành của cây. Tài liệu khuyến nghị ưu tiên những dòng thuốc có tính thấm sâu và khả năng lưu dẫn mạnh trong cây. Việc phối hợp các hoạt chất khác nhau cũng được đề cập với mục đích ngăn chặn tình trạng nấm kháng thuốc. Nội dung nguồn chỉ cung cấp các thông tin trên và không đưa ra liều lượng cụ thể cho từng hoạt chất.",
+  "source": "ngocthien.pdf"
+ },
+ {
+  "id": "Q011",
+  "question": "Cần pha liều lượng thuốc bao nhiêu và phun mấy lần cho các sản phẩm thuốc trị bệnh này?",
+  "disease_key": "Rhizoctonia",
+  "disease": "Bệnh cháy lá, chết ngọn (Rhizoctonia sp.)",
+  "section": "treatment",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "chaylachetngon_081"
+  ],
+  "gold_context": "Nguồn tài liệu đề cập đến biện pháp hóa học trong phòng trừ bệnh cháy lá – chết ngọn trên cây sầu riêng bằng cách sử dụng các sản phẩm Azo-Elong 350SC, Phaybuc 325SC và Fukuda 3SL. Tài liệu giới thiệu các sản phẩm này trong nội dung phòng ngừa và điều trị bệnh hại trên cây trồng. Tuy nhiên, nguồn không cung cấp thông tin cụ thể về hoạt chất, liều lượng sử dụng, lượng nước pha thuốc, số lần phun hoặc khoảng cách giữa các lần xử lý. Vì vậy, những thông tin chi tiết về cách sử dụng các sản phẩm này không được xác định từ tài liệu. Khi xây dựng cơ sở dữ liệu chẩn đoán và tư vấn, nội dung về thuốc cần được giữ đúng theo nguồn, không tự bổ sung liều lượng hoặc hướng dẫn kỹ thuật chưa được tài liệu cung cấp.",
+  "source": "mekosilt.com-PHÒNG TRỪ BỆNH CHÁY LÁ  CHẾT NGỌN TRÊN CÂY SẦU RIÊNG.pdf",
+  "note": "Tài liệu KHÔNG nêu liều lượng/số lần phun cụ thể -> câu trả lời đúng là nói không có thông tin; nếu LLM bịa số liệu = ảo giác."
+ },
+ {
+  "id": "Q012",
+  "question": "Nên phun thuốc vào thời điểm nào trong ngày, và có nên phun khi trời sắp mưa không?",
+  "disease_key": "Rhizoctonia",
+  "disease": "Bệnh cháy lá, chết ngọn (Rhizoctonia sp.)",
+  "section": "treatment",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "chaylachetngon_088"
+  ],
+  "gold_context": "Tài liệu đưa ra một số lưu ý trong quá trình phun thuốc để hỗ trợ hiệu quả xử lý bệnh cháy lá. Thời điểm phun được khuyến nghị là vào sáng sớm hoặc chiều mát. Không nên phun thuốc khi trời sắp mưa vì thuốc có thể bị nước mưa rửa trôi sau khi phun. Liều lượng thuốc cần được pha theo đúng hướng dẫn được in trên bao bì của nhà sản xuất và không nên sử dụng thuốc quá mức vì có thể ảnh hưởng đến sự phát triển của cây. Tài liệu cũng đề cập việc sử dụng thêm chất bám dính nhằm tăng hiệu quả bám của thuốc trên lá. Sau đợt phun đầu tiên, nếu bệnh ở mức nặng, tài liệu khuyến nghị có thể thực hiện lần phun nhắc lại sau khoảng 5 đến 7 ngày.",
+  "source": "ngocthien.pdf"
+ },
+ {
+  "id": "Q013",
+  "question": "Để phòng ngừa nấm thì dùng thuốc chứa hoạt chất nào, còn khi vườn đã có bệnh thì dùng hoạt chất nào?",
+  "disease_key": "Rhizoctonia",
+  "disease": "Bệnh cháy lá, chết ngọn (Rhizoctonia sp.)",
+  "section": "treatment",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "chaylachetngon_058"
+  ],
+  "gold_context": "Theo tài liệu, biện pháp hóa học được sử dụng để phòng trừ bệnh cháy lá chết ngọn trên cây sầu riêng. Để phòng ngừa sự phát triển của nấm gây bệnh, có thể sử dụng các thuốc chứa hoạt chất mancozeb, được đề cập cùng sản phẩm Fovathane 80WP, hoặc metalaxyl, được đề cập cùng sản phẩm Rorigold 720WP. Khi vườn đã xuất hiện bệnh, tài liệu đề cập đến việc sử dụng các thuốc đặc trị như azoxystrobin, được nêu cùng sản phẩm Avatop 60WG, và difenoconazole, được nêu cùng sản phẩm Asmaitop 325EC. Nguồn tài liệu mô tả các hoạt chất này có khả năng thấm sâu vào lá để hỗ trợ kiểm soát tác nhân gây bệnh. Việc lựa chọn và sử dụng thuốc cần dựa trên hướng dẫn của sản phẩm và điều kiện thực tế của vườn.",
+  "source": "happyagri.com.vn-Bệnh Cháy Lá Chết Ngọn Sầu Riêng Và Biện Pháp Phòng Trừ.pdf"
+ },
+ {
+  "id": "Q014",
+  "question": "Có những biện pháp canh tác nào giúp phòng bệnh này?",
+  "disease_key": "Rhizoctonia",
+  "disease": "Bệnh cháy lá, chết ngọn (Rhizoctonia sp.)",
+  "section": "prevention",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "chaylachetngon_025"
+  ],
+  "gold_context": "Tài liệu đề xuất các biện pháp canh tác nhằm phòng trừ bệnh cháy lá chết ngọn trên cây sầu riêng. Người trồng cần vệ sinh vườn cây và duy trì độ thông thoáng để hạn chế điều kiện thuận lợi cho bệnh phát triển. Việc bón phân cân đối cũng được đề cập trong nhóm biện pháp canh tác. Vào mùa khô, cần tưới nước với lượng phù hợp để duy trì độ ẩm cần thiết cho cây. Đồng thời, đất cần được giữ thông thoáng và không để tình trạng quá ẩm ướt kéo dài. Các biện pháp này được nguồn trình bày nhằm hỗ trợ phòng trị bệnh trong cả giai đoạn vườn ươm và giai đoạn cây kinh doanh.",
+  "source": "congtyhai.pdf"
+ },
+ {
+  "id": "Q015",
+  "question": "Cắt tỉa cành và hệ thống thoát nước có vai trò gì trong việc giảm bệnh?",
+  "disease_key": "Rhizoctonia",
+  "disease": "Bệnh cháy lá, chết ngọn (Rhizoctonia sp.)",
+  "section": "prevention",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "chaylachetngon_019"
+  ],
+  "gold_context": "Tài liệu đề xuất một số biện pháp canh tác nhằm giảm thiểu bệnh cháy lá khô cành do nấm Rhizoctonia solani trên cây sầu riêng. Người trồng nên thường xuyên cắt tỉa cành để tạo độ thông thoáng cho cây và giúp cây nhận đủ ánh sáng, từ đó hỗ trợ cây phát triển khỏe mạnh và hạn chế sự tấn công của sâu bệnh. Bên cạnh đó, cần xây dựng hệ thống thoát nước tốt nhằm cải thiện độ thông thoáng cho vùng rễ, giúp cây hấp thụ chất dinh dưỡng và nước hiệu quả hơn. Nguồn cũng khuyến cáo không sử dụng vật liệu hữu cơ đã bị nhiễm bệnh để tủ gốc cho cây, nhằm tránh làm lây lan nguồn bệnh trong vườn.",
+  "source": "camnangcaytrong.pdf"
+ },
+ {
+  "id": "Q016",
+  "question": "Cần quản lý đất, tàn dư thực vật, cỏ dại và cành thế nào để hạn chế nguồn bệnh?",
+  "disease_key": "Rhizoctonia",
+  "disease": "Bệnh cháy lá, chết ngọn (Rhizoctonia sp.)",
+  "section": "prevention",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "chaylachetngon_100"
+  ],
+  "gold_context": "Trong quá trình phòng trừ bệnh cháy lá chết ngọn, người trồng cần kết hợp quản lý đất, vệ sinh vườn, cắt tỉa và bón phân hợp lý. Đất trồng cần có độ pH phù hợp, thoát nước tốt và không bị ngập úng. Tàn dư thực vật bị bệnh cùng cỏ dại quanh vườn nên được dọn dẹp định kỳ để hạn chế nơi tồn tại và phát triển của nấm bệnh. Cây cần được trồng với mật độ phù hợp, đồng thời cắt bỏ cành vô hiệu và cành gần mặt đất để cải thiện ánh sáng, độ thông thoáng. Việc bón phân cần cân đối giữa các chất dinh dưỡng, tránh sử dụng quá nhiều phân đạm, đặc biệt trong mùa mưa. Người trồng cũng cần thường xuyên kiểm tra vườn, nhất là khi thời tiết ẩm ướt, để phát hiện bệnh sớm và hạn chế lây lan.",
+  "source": "nongduockobeta.com-Nguyên Nhân và Biện Pháp Ph  Nông Dược Kobeta.pdf"
+ },
+ {
+  "id": "Q017",
+  "question": "Bệnh gây ảnh hưởng gì đến cây sầu riêng, nhất là cây con ở vườn ươm?",
+  "disease_key": "Rhizoctonia",
+  "disease": "Bệnh cháy lá, chết ngọn (Rhizoctonia sp.)",
+  "section": "impact",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "chaylachetngon_073"
+  ],
+  "gold_context": "Bệnh cháy lá tổ kiến có thể gây ảnh hưởng đáng kể đến sức khỏe và năng suất của cây sầu riêng nếu không được kiểm soát kịp thời. Bệnh làm giảm diện tích lá xanh và gây rụng lá, từ đó làm giảm khả năng quang hợp của cây. Cây bị bệnh có thể trở nên suy yếu và dễ bị các tác nhân gây hại khác tấn công. Trong giai đoạn cây con tại vườn ươm, bệnh có thể gây thiệt hại lớn đối với sự phát triển của cây. Nếu điều kiện thời tiết thuận lợi cho nấm bệnh, đặc biệt trong mùa mưa, bệnh có thể lan truyền nhanh trong vườn và làm suy giảm sức khỏe tổng thể của cây sầu riêng. Trường hợp bệnh tấn công lên ngọn còn có thể dẫn đến hiện tượng khô chết ngọn hoặc chết ngược.",
+  "source": "makegroup.pdf"
+ },
+ {
+  "id": "Q018",
+  "question": "Khi bệnh nặng thì cây bị thiệt hại ra sao, và thiệt hại có thể lên đến mức nào?",
+  "disease_key": "Rhizoctonia",
+  "disease": "Bệnh cháy lá, chết ngọn (Rhizoctonia sp.)",
+  "section": "impact",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "chaylachetngon_173"
+  ],
+  "gold_context": "Khi bệnh phát triển nặng, toàn bộ lá trên cây có thể bị khô trắng, khiến cây mất khả năng quang hợp. Việc suy giảm diện tích lá làm cây yếu sức và suy kiệt, đồng thời khiến quá trình phục hồi trở nên khó khăn. Bệnh có thể gây ảnh hưởng lớn đến sự phát triển của cây, đặc biệt khi xảy ra hiện tượng khô lá non, rụng trụi đọt, chết ngọn, chết cành và chết các nhánh nhỏ. Tài liệu cũng cho biết bệnh có thể gây thiệt hại đến 50% vườn tại những khu vực vườn ươm hoặc vườn sầu riêng mới xuống giống. Mức độ thiệt hại phụ thuộc vào tình trạng phát sinh và phát triển của bệnh trong vườn.",
+  "source": "tincay.com-Cháy Lá Chết Ngọn Trên Cây Sầu Riêng.pdf"
+ },
+ {
+  "id": "Q019",
+  "question": "Bệnh tiến triển thế nào từ lúc xuất hiện đốm nhỏ cho đến khi lá khô?",
+  "disease_key": "Rhizoctonia",
+  "disease": "Bệnh cháy lá, chết ngọn (Rhizoctonia sp.)",
+  "section": "progression",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "chaylachetngon_065"
+  ],
+  "gold_context": "Bệnh cháy lá trên cây sầu riêng thường bắt đầu bằng những đốm nhỏ sũng nước xuất hiện trên lá già hoặc lá non. Sau đó, các đốm bệnh liên kết lại với nhau và hình thành những mảng lớn có hình dạng không cố định. Các vùng bị bệnh dần khô đi, chuyển sang màu nâu sáng với phần rìa màu nâu tối. Trong quá trình phát triển, lá có thể bị biến dạng và quăn lại. Những lá bị bệnh có thể dính vào nhau do sự phát triển của sợi nấm, đồng thời xuất hiện các hạch nấm nhỏ màu nâu có dạng tròn hoặc dẹp. Khi bệnh tiếp tục phát triển, lá có thể khô và rụng. Ở trường hợp nghiêm trọng, bệnh tấn công thân non, làm phần ngọn khô chết và chuyển sang màu trắng xám.",
+  "source": "kingazon.pdf"
+ },
+ {
+  "id": "Q020",
+  "question": "Vì sao đã phun thuốc hóa học nhiều lần mà vết cháy lá vẫn tiếp tục lan rộng?",
+  "disease_key": "Rhizoctonia",
+  "disease": "Bệnh cháy lá, chết ngọn (Rhizoctonia sp.)",
+  "section": "faq",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "chaylachetngon_120"
+  ],
+  "gold_context": "Một câu hỏi được nguồn tài liệu đề cập là tại sao người trồng đã phun thuốc hóa học nhiều lần nhưng vết cháy lá vẫn tiếp tục lan rộng. Bài viết đưa ra hai nguyên nhân được tác giả giải thích. Thứ nhất, việc sử dụng một loại hoạt chất hóa học quá lâu có thể khiến nấm Rhizoctonia bị lờn thuốc theo cách diễn giải của nguồn. Thứ hai, thuốc hóa học có thể chỉ xử lý sợi nấm đang bám trên lá nhưng không loại bỏ được các hạch nấm tồn tại trong đất hoặc tàn dư thực vật. Khi có mưa, những nguồn nấm này có thể tiếp tục phát triển và lan lên cây. Tài liệu đề xuất kết hợp vệ sinh nguồn bệnh với các chế phẩm vi sinh đối kháng, nhưng không cung cấp dữ liệu thử nghiệm để xác nhận mức độ hiệu quả của giải pháp.",
+  "source": "nongnghiepdemen.vn-Bệnh Cháy Lá Chết Ngọn Sầu Riêng Cách Phòng Trị Hiệu Quả.pdf"
+ },
+ {
+  "id": "Q021",
+  "question": "Hiện tượng cháy lá có thể do những nguyên nhân nào, và vết cháy do nấm trông như thế nào?",
+  "disease_key": "Blight",
+  "disease": "Bệnh cháy lá, chưa xác định tác nhân (Leaf_Blight)",
+  "section": "symptoms",
+  "cause_type": "general",
+  "gold_chunk_ids": [
+   "chayla_001"
+  ],
+  "gold_context": "Hiện tượng cháy lá trên cây sầu riêng có thể xuất phát từ nấm bệnh hoặc các nguyên nhân sinh lý như sốc nhiệt, ngộ độc phân bón, ngập úng và khô hạn. Đối với cháy lá do nấm bệnh, đặc biệt là nấm Rhizoctonia solani, vết bệnh thường bắt đầu từ chóp lá hoặc mép lá rồi lan dần vào phía gân chính. Vết cháy có màu nâu nhạt hoặc xám bạc, ranh giới giữa phần lá bệnh và phần lá khỏe tương đối rõ, thường kèm theo viền nâu đậm. Bệnh có thể lây lan nhanh từ lá già sang lá non và từ cành thấp lên cành cao. Vào buổi sáng sớm có sương, trên vết bệnh đôi khi có thể quan sát thấy lớp tơ nấm trắng mỏng.",
+  "source": "abkhangnguyen.com-Sầu riêng bị cháy lá Bắt đúng bệnh Trị dứt điểm cùng chuyên gia.pdf"
+ },
+ {
+  "id": "Q022",
+  "question": "Cháy lá liên quan đến bộ rễ kém phát triển có những đặc điểm gì, pH đất ra sao?",
+  "disease_key": "Blight",
+  "disease": "Bệnh cháy lá, chưa xác định tác nhân (Leaf_Blight)",
+  "section": "symptoms",
+  "cause_type": "general",
+  "gold_chunk_ids": [
+   "chayla_054"
+  ],
+  "gold_context": "Cháy lá sinh lý liên quan đến bộ rễ kém phát triển thường xuất hiện trên những cây sinh trưởng kém hoặc còi cọc. Bộ lá có thể xuống màu, trở nên xám xịt hoặc vàng nhạt. Triệu chứng cháy bìa lá thường bắt đầu từ chóp hoặc mép lá rồi lan dần vào phía trong. Khi kiểm tra đất, tài liệu cho biết pH có thể ở mức dưới 5.0, trong khi hệ thống rễ thường ít, ngắn và yếu. Điểm được tài liệu sử dụng để phân biệt trường hợp này với một số vấn đề nấm bệnh là rễ không có mùi thối đen đặc trưng của nấm. Khi đất nghèo dinh dưỡng và có pH thấp, một số dưỡng chất thiết yếu bị khóa lại khiến cây khó hấp thu. Rễ non bị chùn và giảm khả năng hút nước, dinh dưỡng, từ đó cây rơi vào tình trạng được tài liệu mô tả là “đói” sinh lý và phát sinh cháy bìa lá.",
+  "source": "hoptrisummit.com-Bệnh cháy lá trên cây sầu riêng Nguyên nhân  cách trị từ Hợp Trí.pdf"
+ },
+ {
+  "id": "Q023",
+  "question": "Bệnh xuất hiện trên lá già hay lá non, và triệu chứng ban đầu là gì?",
+  "disease_key": "Blight",
+  "disease": "Bệnh cháy lá, chưa xác định tác nhân (Leaf_Blight)",
+  "section": "symptoms",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "chayla_016"
+  ],
+  "gold_context": "Bệnh cháy lá sầu riêng có thể xuất hiện trên cả lá già và lá non. Triệu chứng ban đầu thường là những đốm nhỏ có dạng sũng nước, xuất hiện tại nhiều vị trí trên lá. Sau đó, các vết bệnh lan rộng dần, chuyển sang trạng thái khô khiến lá đổi màu nâu và quăn lại. Những lá bị bệnh có thể dính vào nhau bởi các sợi nấm phát triển và lan rộng trên bề mặt. Trên cây non, hiện tượng cháy lá thường xuất hiện ở phần ngọn, sau đó lá rụng, ngọn khô héo và có thể khiến cả cây chết. Trên cây trưởng thành, lá non bị khô và rụng kéo dài có thể làm phần ngọn, cành và nhánh trở nên còi cọc, ảnh hưởng đến quá trình sinh trưởng.",
+  "source": "alphaagrochem.com-Bệnh cháy lá trên cây sầu riêng và biện pháp phòng trừ hiệu quả.pdf"
+ },
+ {
+  "id": "Q024",
+  "question": "Vết bệnh trên lá non đang mở thường bắt đầu từ đâu, trông giống gì, và lan nhanh khi nào?",
+  "disease_key": "Blight",
+  "disease": "Bệnh cháy lá, chưa xác định tác nhân (Leaf_Blight)",
+  "section": "symptoms",
+  "cause_type": "general",
+  "gold_chunk_ids": [
+   "chayla_035"
+  ],
+  "gold_context": "Ở giai đoạn đầu, vết bệnh cháy lá sầu riêng thường bắt đầu từ mép hoặc chóp của những lá non đang mở. Ban đầu, các tổn thương chỉ xuất hiện dưới dạng những đốm nhỏ sũng nước, có màu xanh xám và tạo cảm giác giống như phần lá vừa bị luộc qua nước nóng. Khi bệnh bùng phát, đặc biệt sau một đến hai ngày mưa dầm hoặc xuất hiện sương mù, vết bệnh có thể lan nhanh vào sâu trong phiến lá. Phần mô bị nhiễm dần khô lại và chuyển màu từ nâu nhạt sang nâu đậm. Đây là những biểu hiện được tài liệu dùng để nhận biết bệnh ở giai đoạn sớm và giai đoạn lan rộng.",
+  "source": "bvtvthienbinh.com-Cháy lá sầu riêng Cách xử lý hiệu quả  kỹ thuật phòng trừ 2026.pdf"
+ },
+ {
+  "id": "Q025",
+  "question": "Cháy lá có thể liên quan đến vi khuẩn không, và các vết thương ban đầu trên lá đến từ đâu?",
+  "disease_key": "Blight",
+  "disease": "Bệnh cháy lá, chưa xác định tác nhân (Leaf_Blight)",
+  "section": "causes",
+  "cause_type": "bacterial_insect",
+  "gold_chunk_ids": [
+   "chayla_011"
+  ],
+  "gold_context": "Theo tài liệu AgriPlus, hiện tượng cháy lá trên cây sầu riêng trong trường hợp được đề cập có liên quan đến sự tấn công của vi khuẩn trên những vị trí lá đã bị tổn thương. Các tổn thương ban đầu có thể xuất phát từ hoạt động chích hút của rầy hoặc do những tác động cơ học như mưa, gió và va đập. Khi mô lá bị tổn thương, vi khuẩn có điều kiện tấn công và gây ra các biểu hiện bệnh. Vì vậy, việc xác định nguyên nhân không nên chỉ tập trung vào phần lá bị bệnh mà cần xem xét cả tác nhân gây tổn thương ban đầu, đặc biệt là sự hiện diện của rầy chích hút.",
+  "source": "agriplusvn.com-BỆNH CHÁY LÁ SẦU RIÊNG.pdf"
+ },
+ {
+  "id": "Q026",
+  "question": "Cháy lá có thể liên quan đến những tác nhân nào, kể cả nấm và côn trùng?",
+  "disease_key": "Blight",
+  "disease": "Bệnh cháy lá, chưa xác định tác nhân (Leaf_Blight)",
+  "section": "causes",
+  "cause_type": "general",
+  "gold_chunk_ids": [
+   "chayla_061"
+  ],
+  "gold_context": "Bệnh cháy lá sầu riêng theo tài liệu có thể liên quan đến nhiều tác nhân khác nhau. Tác nhân chính được đề cập là nấm Rhizoctonia solani, loại nấm có thể tồn tại trong đất và lây nhiễm cây thông qua việc cắt tỉa không đúng cách, tiếp xúc với lá bị tổn thương hoặc khi điều kiện môi trường không thuận lợi. Tài liệu cũng đề cập rầy xanh hoặc rầy nhảy là tác nhân gây hại, đặc biệt phát triển mạnh khi cây đang ra đọt non. Bên cạnh Rhizoctonia solani, Collectotrichum spp. cũng được đề cập là tác nhân gây bệnh thán thư trên sầu riêng. Ngoài tác nhân sinh vật, việc bón quá nhiều phân vô cơ như NPK hoặc bón phân không cân đối cũng có thể làm đầu rễ cám bị cháy, khiến chóp và rìa lá phía trên bị cháy theo. Khi lượng đạm quá cao, lá trở nên mỏng và yếu, dễ bị nấm bệnh tấn công.",
+  "source": "nguyenlieusinhhoc.com-Phòng trị bệnh cháy lá sầu riêng hiệu quả và an toàn cho cây.pdf"
+ },
+ {
+  "id": "Q027",
+  "question": "Cháy lá sinh lý trong giai đoạn xử lý ra hoa do nguyên nhân nào?",
+  "disease_key": "Blight",
+  "disease": "Bệnh cháy lá, chưa xác định tác nhân (Leaf_Blight)",
+  "section": "causes",
+  "cause_type": "physiological",
+  "gold_chunk_ids": [
+   "chayla_058"
+  ],
+  "gold_context": "Cây sầu riêng có thể xuất hiện cháy lá sinh lý trong giai đoạn xử lý ra hoa khi cây chịu stress do xiết nước và sử dụng chất kích thích ra hoa không phù hợp. Tài liệu mô tả tình trạng này xảy ra khi cắt nước hoàn toàn kết hợp với việc sử dụng thuốc kích thích ra hoa có nồng độ quá cao hoặc không phù hợp. Những tác động này có thể gây ức chế sinh trưởng và làm rối loạn sinh lý bên trong cây. Khi cây bị ép chuyển nhanh từ giai đoạn sinh trưởng sang giai đoạn sinh sản trong lúc hoạt động của bộ rễ đang bị hạn chế, cây dễ rơi vào trạng thái sốc nhiệt và thiếu hụt dinh dưỡng tạm thời. Hệ quả là bộ lá có thể bị cháy sinh lý. Dấu hiệu thường được tài liệu mô tả là lá xuống màu, xám xịt hoặc cháy bìa lá trong quá trình xiết nước tạo mầm. Lá già có thể rụng nhiều bất thường, làm ảnh hưởng đến khả năng quang hợp và sức khỏe của cây trong giai đoạn nuôi bông và trái.",
+  "source": "hoptrisummit.com-Bệnh cháy lá trên cây sầu riêng Nguyên nhân  cách trị từ Hợp Trí Summit.pdf"
+ },
+ {
+  "id": "Q028",
+  "question": "Môi trường và tình trạng vườn như thế nào thì dễ phát sinh bệnh cháy lá?",
+  "disease_key": "Blight",
+  "disease": "Bệnh cháy lá, chưa xác định tác nhân (Leaf_Blight)",
+  "section": "conditions",
+  "cause_type": "general",
+  "gold_chunk_ids": [
+   "chayla_072"
+  ],
+  "gold_context": "Bệnh cháy lá sầu riêng phát triển thuận lợi trong điều kiện môi trường có độ ẩm cao và nhiệt độ khoảng 28 độ C. Vào mùa mưa, độ ẩm không khí tăng cao tạo môi trường thích hợp cho nấm Rhizoctonia sp phát triển mạnh và lây lan. Những vườn có mật độ cây quá dày, tán cây rậm rạp và thiếu ánh sáng cũng dễ phát sinh bệnh vì không khí khó lưu thông và các bộ phận của cây không được thông thoáng. Tình trạng bón phân không cân đối, đặc biệt là thừa đạm và thiếu phân trung vi lượng, cũng được tài liệu xác định là yếu tố làm tăng nguy cơ bệnh. Ngoài ra, việc cắt tỉa cành không đúng cách và không loại bỏ cành bệnh khiến nguồn bệnh tiếp tục tồn tại trong vườn. Trong điều kiện ẩm ướt, sợi nấm và hạch nấm trên vết bệnh có thể lan nhanh sang các lá lân cận.",
+  "source": "sataka.com.vn-Bệnh Cháy Lá Sầu Riêng Nguyên Nhân Và Giải Pháp Hiệu Quả.pdf"
+ },
+ {
+  "id": "Q029",
+  "question": "Giai đoạn nào của cây dễ bị cháy lá sinh lý và vì sao?",
+  "disease_key": "Blight",
+  "disease": "Bệnh cháy lá, chưa xác định tác nhân (Leaf_Blight)",
+  "section": "conditions",
+  "cause_type": "general",
+  "gold_chunk_ids": [
+   "chayla_081"
+  ],
+  "gold_context": "Bệnh cháy lá sầu riêng theo tài liệu thường được chú ý trong giai đoạn cây nuôi bông và nuôi trái. Đây là thời điểm cây cần lượng nước lớn để duy trì sự phát triển của bông và trái, vì vậy thiếu nước có thể làm tăng nguy cơ xuất hiện cháy lá sinh lý. Nắng nóng kéo dài kết hợp với thiếu nước cũng có thể tạo ra tình trạng sốc nhiệt cho cây. Đối với bệnh do nấm, tài liệu cho biết nhiệt độ thích hợp để bệnh phát triển nằm trong khoảng 30–35 độ C. Những tác nhân nấm như Rhizoctonia solani và Colletotrichum gloeosporioides có thể tấn công cả lá non và lá già. Ngoài ra, mất cân bằng dinh dưỡng, đặc biệt thiếu Kali, cũng là điều kiện liên quan đến hiện tượng cháy lá. Khi cây thiếu Kali, tài liệu mô tả cây có thể huy động Kali từ lá già về lá non, khiến lá già bị cháy từ chóp lá vào phía trong.",
+  "source": "vincoagri.vn-BỆNH CHÁY LÁ SẦU RIÊNG NGUYÊN NHÂN VÀ GIẢI PHÁP PHÒNG TRỊ HIỆU QUẢ.pdf"
+ },
+ {
+  "id": "Q030",
+  "question": "Có những sản phẩm nào, với hoạt chất gì, được dùng để ngăn ngừa và kiểm soát bệnh này?",
+  "disease_key": "Blight",
+  "disease": "Bệnh cháy lá, chưa xác định tác nhân (Leaf_Blight)",
+  "section": "treatment",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "chayla_024"
+  ],
+  "gold_context": "Tài liệu BMFE giới thiệu hai sản phẩm được sử dụng nhằm ngăn ngừa và kiểm soát bệnh cháy lá trên cây sầu riêng là Cặp A3 BMFE và STARZINAM. Cặp A3 BMFE được mô tả có thành phần Cyazofamid với hàm lượng 100 g/l và Proteoglycan 0,5% w/w. Theo tài liệu, sản phẩm có công dụng ngăn chặn và kiểm soát các loại nấm gây bệnh cháy lá, hỗ trợ cây hồi phục và tăng khả năng quang hợp. STARZINAM được giới thiệu với thành phần Fluazinam 50% w/w, có mục đích kiểm soát nấm bệnh và hỗ trợ sự phát triển của lá non. Các thông tin về sản phẩm được giữ theo nguồn tham khảo, không xem là xác nhận độc lập về hiệu quả hoặc mức độ an toàn trong mọi điều kiện sử dụng.",
+  "source": "baominhagri.com-Giải Pháp Phòng Trừ Bệnh Cháy Lá Trên Sầu Riêng  BMFE Bảo Vệ Vườn Cây Của Bạn.pdf"
+ },
+ {
+  "id": "Q031",
+  "question": "Nếu cháy lá liên quan đến đất, rễ và dinh dưỡng thì xử lý như thế nào?",
+  "disease_key": "Blight",
+  "disease": "Bệnh cháy lá, chưa xác định tác nhân (Leaf_Blight)",
+  "section": "treatment",
+  "cause_type": "general",
+  "gold_chunk_ids": [
+   "chayla_091"
+  ],
+  "gold_context": "Theo tài liệu Welofarm, việc xử lý hiện tượng cháy lá cần dựa trên nguyên nhân liên quan đến đất, rễ và dinh dưỡng. Khi pH đất thấp, nhà vườn được khuyến nghị kiểm tra pH định kỳ để xác định tình trạng đất trước khi thực hiện biện pháp điều chỉnh. Đối với đất bị chai hoặc lèn, tài liệu đề cập việc xới nhẹ lớp đất quanh gốc nhằm cải thiện điều kiện đất và hỗ trợ hoạt động của rễ. Khi cây thiếu dinh dưỡng do chăm sóc không đúng giai đoạn, cần điều chỉnh chương trình cung cấp dinh dưỡng theo tình trạng và giai đoạn sinh trưởng của cây. Tài liệu cũng đề cập trường hợp lá đã có dấu hiệu bệnh, cháy loang hoặc nấm khuẩn thì cần xử lý riêng trên bộ lá. Tuy nhiên, nguồn không cung cấp đầy đủ quy trình chẩn đoán để phân biệt chính xác từng tác nhân gây bệnh, vì vậy các biện pháp xử lý cần được xem xét dựa trên biểu hiện thực tế của cây và tình trạng đất, rễ, lá.",
+  "source": "welofarm.vn-CÁCH TRỊ CHÁY LÁ SẦU RIÊNG HIỆU QUẢ.pdf"
+ },
+ {
+  "id": "Q032",
+  "question": "Vì sao nên phối hợp thuốc trị nấm với thuốc trừ rầy, và khi phun cần chú ý gì?",
+  "disease_key": "Blight",
+  "disease": "Bệnh cháy lá, chưa xác định tác nhân (Leaf_Blight)",
+  "section": "treatment",
+  "cause_type": "general",
+  "gold_chunk_ids": [
+   "chayla_044"
+  ],
+  "gold_context": "Tài liệu đề xuất phối hợp thuốc trị nấm với thuốc trừ rầy trong quá trình xử lý cháy lá. Theo nguồn, việc kiểm soát rầy nhằm hạn chế các vết chích hút mới trên lá, bởi những vết thương này có thể tạo điều kiện cho nấm xâm nhập. Kỹ thuật phun cũng cần được thực hiện đồng đều trên cả hai mặt lá và các cành, thân. Nguồn nhấn mạnh rằng chỉ phun mặt trên của lá có thể bỏ sót vị trí bào tử nấm tồn tại và phát triển. Vì vậy, xử lý bệnh được mô tả theo hướng kết hợp kiểm soát tác nhân nấm với yếu tố rầy chích hút, đồng thời đảm bảo thuốc tiếp xúc đầy đủ với những bộ phận của cây có nguy cơ bị bệnh.",
+  "source": "bvtvthienbinh.com-Cháy lá sầu riêng Cách xử lý hiệu quả  kỹ thuật phòng trừ 2026.pdf"
+ },
+ {
+  "id": "Q033",
+  "question": "Với cháy lá liên quan đến nấm bệnh thì tài liệu nêu những sản phẩm hoặc hoạt chất nào?",
+  "disease_key": "Blight",
+  "disease": "Bệnh cháy lá, chưa xác định tác nhân (Leaf_Blight)",
+  "section": "treatment",
+  "cause_type": "general",
+  "gold_chunk_ids": [
+   "chayla_085"
+  ],
+  "gold_context": "Đối với trường hợp cháy lá có liên quan đến nấm bệnh, tài liệu VincoAgri đề cập việc sử dụng các thuốc phòng trừ nấm khi phát hiện cây bị bệnh, đặc biệt đối với bệnh thán thư và bệnh do nấm Rhizoctonia solani. Các sản phẩm hoặc hoạt chất được nguồn nêu gồm Propineb, Azoxystrobin, Velox và Zeromix. Song song với xử lý nấm bệnh, việc vệ sinh vườn và cắt tỉa lá bị bệnh được xem là cần thiết nhằm hạn chế nguồn bệnh. Đối với hiện tượng cháy lá liên quan đến thiếu Kali, tài liệu đề xuất bổ sung phân Kali trong suốt quá trình sinh trưởng, đặc biệt ở giai đoạn nuôi bông và nuôi trái. Ngoài Kali, Nitơ, Phốt pho và Magiê cũng cần được cung cấp đúng liều lượng. Khi cháy lá liên quan đến thiếu nước hoặc sốc nhiệt, tài liệu nhấn mạnh việc tưới nước đều đặn và sử dụng hệ thống tưới phun sương để giữ ẩm đất, đồng thời giảm nhiệt độ cho cây.",
+  "source": "vincoagri.vn-BỆNH CHÁY LÁ SẦU RIÊNG NGUYÊN NHÂN VÀ GIẢI PHÁP PHÒNG TRỊ HIỆU QUẢ.pdf"
+ },
+ {
+  "id": "Q034",
+  "question": "Nên chăm sóc hệ vi sinh trong đất như thế nào để bảo vệ bộ rễ?",
+  "disease_key": "Blight",
+  "disease": "Bệnh cháy lá, chưa xác định tác nhân (Leaf_Blight)",
+  "section": "prevention",
+  "cause_type": "general",
+  "gold_chunk_ids": [
+   "chayla_007"
+  ],
+  "gold_context": "Việc chăm sóc hệ vi sinh trong đất được tài liệu đề cập như một biện pháp hỗ trợ bảo vệ bộ rễ và hạn chế các vấn đề liên quan đến nấm bệnh. Người trồng có thể tưới các chế phẩm vi sinh như Bio ECO và Tricho-bacte theo định kỳ từ một đến hai tháng mỗi lần. Nội dung nguồn cho rằng các chế phẩm này được sử dụng nhằm hỗ trợ bảo vệ hệ rễ trước tuyến trùng và nấm Phytophthora. Bên cạnh đó, cần thường xuyên theo dõi tình trạng của cây, đặc biệt trong những giai đoạn thời tiết bất lợi như nắng nóng kéo dài hoặc mùa mưa có độ ẩm cao. Việc quản lý lượng phân bón, giữ ẩm phù hợp và tăng cường sử dụng phân hữu cơ vi sinh được đề cập nhằm giúp cây duy trì bộ lá khỏe mạnh. Các biện pháp chăm sóc cần được điều chỉnh theo điều kiện thực tế của từng vườn.",
+  "source": "abkhangnguyen.com-Sầu riêng bị cháy lá Bắt đúng bệnh Trị dứt điểm cùng chuyên gia.pdf"
+ },
+ {
+  "id": "Q035",
+  "question": "Trong mùa khô cần quản lý tưới nước và phủ gốc thế nào để hạn chế cháy lá?",
+  "disease_key": "Blight",
+  "disease": "Bệnh cháy lá, chưa xác định tác nhân (Leaf_Blight)",
+  "section": "prevention",
+  "cause_type": "general",
+  "gold_chunk_ids": [
+   "chayla_006"
+  ],
+  "gold_context": "Để hạn chế hiện tượng cháy lá trên cây sầu riêng, người trồng cần duy trì độ ẩm phù hợp trong mùa khô và quản lý việc tưới nước một cách đều đặn. Tài liệu đề xuất phủ gốc bằng cỏ khô hoặc rơm rạ vào mùa khô, đồng thời giữ khoảng cách khoảng 20 cm giữa vật liệu phủ và gốc cây nhằm hạn chế nguy cơ nấm gây hại vùng cổ rễ. Nên tưới nước vào buổi sáng sớm hoặc chiều mát, tránh tưới trong thời điểm nắng gắt. Việc quản lý phân bón cũng rất quan trọng: phân cần được sử dụng theo độ tuổi và kích thước tán cây, rải theo hình chiếu của tán lá và chia thành nhiều lần bón với lượng nhỏ thay vì bón tập trung một lần. Tài liệu khuyến nghị ưu tiên sử dụng phân hữu cơ vi sinh để hỗ trợ quá trình chăm sóc đất và bộ rễ.",
+  "source": "abkhangnguyen.com-Sầu riêng bị cháy lá Bắt đúng bệnh Trị dứt điểm cùng chuyên gia.pdf"
+ },
+ {
+  "id": "Q036",
+  "question": "Biện pháp canh tác nào giúp phòng cháy lá khi cây đang ra hoa đậu trái mùa nắng và khi trời mưa?",
+  "disease_key": "Blight",
+  "disease": "Bệnh cháy lá, chưa xác định tác nhân (Leaf_Blight)",
+  "section": "prevention",
+  "cause_type": "general",
+  "gold_chunk_ids": [
+   "chayla_069"
+  ],
+  "gold_context": "Biện pháp canh tác được tài liệu đề cập nhằm phòng ngừa cháy lá gồm quản lý độ ẩm, vệ sinh vườn, cắt tỉa và chăm sóc dinh dưỡng phù hợp. Khi cây đang ra hoa và đậu trái trong mùa nắng, cần giữ ẩm cho vùng gốc; phần ngoài tán có thể được phủ cỏ hoặc rơm rạ. Khi trời mưa, cần làm sạch khu vực quanh gốc, không để nước đọng hoặc tàn dư thực vật um tùm vì đây có thể tạo điều kiện cho nấm và vi khuẩn phát triển. Các cành, lá, hoa và quả bị nhiễm bệnh cần được cắt tỉa, đưa ra khỏi vườn và tiêu hủy để hạn chế nguồn bệnh. Vườn cũng cần tránh tình trạng quá rậm rạp, độ ẩm cao và thiếu ánh sáng. Ngoài ra, tài liệu khuyến nghị thường xuyên thăm vườn, tưới nước và bón phân đầy đủ, đồng thời kiểm tra pH đất để hỗ trợ cây hấp thu dinh dưỡng.",
+  "source": "nguyenlieusinhhoc.com-Phòng trị bệnh cháy lá sầu riêng hiệu quả và an toàn cho cây.pdf"
+ },
+ {
+  "id": "Q037",
+  "question": "Khi lá bị cháy trên diện rộng thì ảnh hưởng gì đến sinh trưởng và nuôi trái?",
+  "disease_key": "Blight",
+  "disease": "Bệnh cháy lá, chưa xác định tác nhân (Leaf_Blight)",
+  "section": "impact",
+  "cause_type": "physiological",
+  "gold_chunk_ids": [
+   "chayla_050"
+  ],
+  "gold_context": "Khi bộ lá sầu riêng bị cháy và tổn thương trên diện rộng, khả năng quang hợp của cây bị suy giảm, từ đó ảnh hưởng trực tiếp đến sinh trưởng và quá trình nuôi trái. Lá bị hư hại có thể làm giảm sức sống và năng suất của cây. Trong trường hợp bệnh tiến triển nặng, lá có thể khô cháy và rụng hàng loạt, làm cành trở nên trơ trụi và có thể xuất hiện hiện tượng chết ngọn. Khi khả năng quang hợp giảm, trái không nhận đủ dinh dưỡng để phát triển, dẫn đến rụng trái hoặc trái bị sượng và kém chất lượng. Đối với cây đang trong giai đoạn ra hoa, tình trạng stress hoặc cháy lá còn có thể làm giảm sức khỏe của cây để nuôi bông và trái về sau.",
+  "source": "hoptrisummit.com-Bệnh cháy lá trên cây sầu riêng Nguyên nhân  cách trị từ Hợp Trí.pdf"
+ },
+ {
+  "id": "Q038",
+  "question": "Bệnh ảnh hưởng thế nào đến cây non và cây trưởng thành?",
+  "disease_key": "Blight",
+  "disease": "Bệnh cháy lá, chưa xác định tác nhân (Leaf_Blight)",
+  "section": "impact",
+  "cause_type": "general",
+  "gold_chunk_ids": [
+   "chayla_019"
+  ],
+  "gold_context": "Bệnh cháy lá chết ngọn trên cây sầu riêng có thể gây hại trong nhiều giai đoạn phát triển của cây, đồng thời ảnh hưởng đến sức khỏe và khả năng chống chịu sâu bệnh. Khi lá bị cháy và rụng sớm, cây có thể bị suy giảm khả năng sinh trưởng. Đối với cây non, tình trạng ngọn bị khô héo sau khi lá rụng có thể dẫn đến chết cây. Đối với cây trưởng thành, việc lá non bị khô và rụng kéo dài có thể khiến vùng ngọn, cành và nhánh trở nên còi cọc, làm cây sinh trưởng và phát triển kém. Tài liệu cũng cho biết bệnh có thể làm giảm năng suất và chất lượng quả, gây thiệt hại cho quá trình canh tác nếu không được phát hiện và xử lý phù hợp.",
+  "source": "alphaagrochem.com-Bệnh cháy lá trên cây sầu riêng và biện pháp phòng trừ hiệu quả.pdf"
+ },
+ {
+  "id": "Q039",
+  "question": "Bệnh bắt đầu và tiến triển thế nào trên lá, cành non và cây non?",
+  "disease_key": "Blight",
+  "disease": "Bệnh cháy lá, chưa xác định tác nhân (Leaf_Blight)",
+  "section": "progression",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "chayla_074"
+  ],
+  "gold_context": "Bệnh cháy lá có thể bắt đầu từ những đốm nâu sũng nước trên chóp hoặc rìa lá, sau đó các vết bệnh mở rộng theo chiều dọc của phiến lá. Khi bệnh tiếp tục phát triển, lá bị co rúm, khô và cuối cùng rụng. Các sợi nấm màu vàng nhạt có thể xuất hiện trên mô bệnh và lan dần ra những vùng lá lân cận. Ở cành non, tơ nấm làm các lá bệnh dính lại với nhau, sau đó các lá này khô và chết. Trên cây non, bệnh có thể tiến triển thành cháy và rụng ngọn, tiếp theo là khô chết phần ngọn. Trên cây trưởng thành, lá non bị khô rụng và bệnh có thể dẫn đến chết ngọn, khô cành và các nhánh nhỏ. Trong điều kiện mùa mưa và trên những cành có nhiều lá, bệnh có thể bùng phát mạnh và nếu không được phát hiện, xử lý kịp thời thì tiếp tục lan rộng giữa các cây trong vườn.",
+  "source": "sataka.com.vn-Bệnh Cháy Lá Sầu Riêng Nguyên Nhân Và Giải Pháp Hiệu Quả.pdf"
+ },
+ {
+  "id": "Q040",
+  "question": "Bệnh bùng phát mạnh vào lúc nào và nhận biết cây bị bệnh bằng dấu hiệu gì?",
+  "disease_key": "Blight",
+  "disease": "Bệnh cháy lá, chưa xác định tác nhân (Leaf_Blight)",
+  "section": "faq",
+  "cause_type": "general",
+  "gold_chunk_ids": [
+   "chayla_078"
+  ],
+  "gold_context": "Theo phần câu hỏi thường gặp của tài liệu, bệnh cháy lá sầu riêng thường bùng phát mạnh vào mùa mưa khi độ ẩm không khí cao. Đây là điều kiện thuận lợi cho nấm Rhizoctonia sp phát triển và lây lan. Để nhận biết cây bị bệnh, có thể quan sát các đốm nâu sũng nước trên lá, những đốm này mở rộng theo chiều dọc làm lá không phát triển bình thường, co rúm rồi khô rụng. Các sợi nấm màu vàng nhạt có thể xuất hiện trên mô bệnh. Khi xử lý bệnh, tài liệu đề cập các thuốc chứa hoạt chất Azoxystrobin và Difenoconazole. Đối với côn trùng chích hút như rầy xanh, rầy phấn và bọ trĩ, tài liệu đề cập Buprofezin và Emamectin Benzoate. Về canh tác, cần cắt tỉa để tán cây thông thoáng, bón phân cân đối, thường xuyên loại bỏ cành bệnh, lá rụng và cành khô, đồng thời duy trì hệ thống thoát nước tốt.",
+  "source": "sataka.com.vn-Bệnh Cháy Lá Sầu Riêng Nguyên Nhân Và Giải Pháp Hiệu Quả.pdf"
+ },
+ {
+  "id": "Q041",
+  "question": "Vết bệnh ban đầu trên lá có đặc điểm gì, và dấu hiệu nhận biết đặc trưng của bệnh là gì?",
+  "disease_key": "Colletotrichum",
+  "disease": "Bệnh thán thư (Colletotrichum sp.)",
+  "section": "symptoms",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "thanthu_039"
+  ],
+  "gold_context": "Triệu chứng bệnh thán thư trên lá sầu riêng được mô tả bắt đầu bằng những đốm nhỏ, hơi lõm trên bề mặt lá. Các đốm bệnh có màu nâu đến nâu đậm và phần mép của vết bệnh thường có màu sẫm hơn. Từ đốm bệnh ban đầu, các vòng tròn đồng tâm dần hình thành và trở thành một đặc điểm nhận biết của bệnh. Khi bệnh tiếp tục phát triển, các vết bệnh có thể lan rộng trên bề mặt lá. Nhiều vết bệnh có thể liên kết với nhau tạo thành những mảng mô hoại tử lớn hơn. Ở mức độ nặng, phần lá bị bệnh có thể cháy khô và cuối cùng rụng khỏi cây. Vì vậy, các đặc điểm về màu nâu đến nâu đậm, vết hơi lõm, mép sẫm màu và vòng tròn đồng tâm là những dấu hiệu trực quan quan trọng để nhận biết bệnh thán thư trên lá.",
+  "source": "makgroup.vn-CÁCH PHÒNG TRỊ BỆNH THÁN THƯ TRÊN SẦU RIÊNG HIỆU QUẢ.pdf"
+ },
+ {
+  "id": "Q042",
+  "question": "Vết bệnh thường bắt đầu ở vị trí nào của lá, màu sắc và viền vết bệnh ra sao?",
+  "disease_key": "Colletotrichum",
+  "disease": "Bệnh thán thư (Colletotrichum sp.)",
+  "section": "symptoms",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "thanthu_003"
+  ],
+  "gold_context": "Triệu chứng bệnh thán thư trên lá sầu riêng thường bắt đầu ở mép hoặc chóp lá. Vết bệnh ban đầu tạo thành các đốm tròn có dạng đồng tâm, màu nâu sẫm hoặc đen và có viền vàng xung quanh. Khi bệnh tiếp tục phát triển, các vết bệnh lan rộng trên phiến lá, gây khô cháy và làm lá rụng sớm. Tài liệu cho biết bệnh đặc biệt có thể xuất hiện rõ trên lá già và lá bánh tẻ. Trong một số trường hợp, phần lá bị bệnh có ranh giới khá rõ với phần mô còn khỏe mạnh. Ranh giới này có thể thể hiện bằng viền màu đen kết hợp với quầng vàng xung quanh vùng tổn thương. Các vết bệnh làm phần mô lá bị hư hại, có thể dẫn đến cháy hoặc thủng lá. Khi tổn thương lan rộng, diện tích mô lá khỏe mạnh giảm xuống và bộ lá của cây bị ảnh hưởng.",
+  "source": "bacsicayxanh.vn-Bệnh thán thư hại sầu riêng.pdf"
+ },
+ {
+  "id": "Q043",
+  "question": "Bệnh thường khởi phát trên loại lá nào, và lá bị bệnh nặng thì chuyện gì xảy ra?",
+  "disease_key": "Colletotrichum",
+  "disease": "Bệnh thán thư (Colletotrichum sp.)",
+  "section": "symptoms",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "thanthu_030"
+  ],
+  "gold_context": "Trên lá sầu riêng, bệnh thán thư thường khởi phát ở các lá bánh tẻ hoặc lá già. Ở giai đoạn ban đầu, trên bề mặt lá xuất hiện các đốm tròn nhỏ có dạng đồng tâm. Theo thời gian, những đốm này chuyển dần sang màu nâu sẫm hoặc màu đen rồi tiếp tục lan rộng trên bề mặt lá. Khi lá bị nhiễm bệnh nặng, các mô lá có thể khô dần rồi rụng sớm. Tài liệu cho biết tình trạng lá bị bệnh và rụng làm suy giảm khả năng quang hợp, từ đó ảnh hưởng đến sức khỏe tổng thể của cây. Các đặc điểm như lá bánh tẻ hoặc lá già bị bệnh, đốm tròn nhỏ dạng đồng tâm, màu nâu sẫm đến đen và xu hướng lan rộng là những biểu hiện trực quan chính được nguồn sử dụng để nhận biết bệnh thán thư trên lá.",
+  "source": "congavang.com-Bệnh thán thư trên sầu riêng Dấu hiệu  cách điều trị tận gốc.pdf"
+ },
+ {
+  "id": "Q044",
+  "question": "Trên lá non bệnh biểu hiện khác gì so với trên lá già?",
+  "disease_key": "Colletotrichum",
+  "disease": "Bệnh thán thư (Colletotrichum sp.)",
+  "section": "symptoms",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "thanthu_013"
+  ],
+  "gold_context": "Triệu chứng bệnh thán thư trên lá sầu riêng thường khởi phát từ phần chóp hoặc mép lá rồi lan dần vào bên trong. Ở lá non, bệnh có thể biểu hiện bằng hiện tượng lá bị xoắn, nhăn nheo và khô giòn giống như bị tác động bởi nhiệt. Khi quan sát kỹ, có thể thấy các đốm nhỏ màu nâu đậm xuất hiện trên lá, được tài liệu xem là những vị trí khởi đầu của bệnh. Ở lá già, vết bệnh có thể có hình tròn hoặc hình dạng bất định, màu nâu sậm và thường có viền đỏ xung quanh. Một đặc điểm được tài liệu nhấn mạnh là sự xuất hiện của các vòng đồng tâm màu đen trên vết bệnh. Khi bệnh phát triển mạnh, phần lá bị tổn thương có thể khô cháy và dẫn đến rụng lá.",
+  "source": "bvtvthienbinh.com-Bệnh thán thư sầu riêng Quy trình xử lý và phòng trừ hiệu quả nhất.pdf"
+ },
+ {
+  "id": "Q045",
+  "question": "Bệnh do tác nhân nào gây ra, và giai đoạn nào của cây dễ bị nhiễm nhất?",
+  "disease_key": "Colletotrichum",
+  "disease": "Bệnh thán thư (Colletotrichum sp.)",
+  "section": "causes",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "thanthu_058"
+  ],
+  "gold_context": "Bệnh thán thư trên sầu riêng do nấm Colletotrichum spp. gây ra và có thể tấn công cây ở nhiều giai đoạn sinh trưởng khác nhau. Theo tài liệu, bệnh phát triển mạnh trong điều kiện ẩm ướt và có nhiều sương mù. Đối với bệnh trên lá, giai đoạn cây mới ra đọt non và xuất hiện lá non được xác định là thời điểm dễ bị nhiễm bệnh nhất. Nguồn cũng cho biết biểu hiện của bệnh có thể khác nhau tùy theo vị trí bị nấm tấn công trên cây, trong đó triệu chứng trên lá có những đặc điểm riêng biệt. Vì vậy, khi cây đang trong giai đoạn phát triển đọt và lá non, cần đặc biệt chú ý đến điều kiện môi trường cũng như các dấu hiệu bất thường trên lá để phát hiện bệnh sớm. Tài liệu nhấn mạnh việc nhận biết nguyên nhân và thời điểm cây dễ nhiễm bệnh là cơ sở để áp dụng các biện pháp phòng ngừa phù hợp.",
+  "source": "nicotex.vn-BỆNH THÁN THƯ TRÊN SẦU RIÊNG NGUYÊN NHÂN TRIỆU CHỨNG VÀ CÁCH PHÒNG TRỪ HIỆU QUẢ.pdf"
+ },
+ {
+  "id": "Q046",
+  "question": "Loài nấm chủ yếu gây bệnh là gì, và vì sao khó kiểm soát nguồn bệnh?",
+  "disease_key": "Colletotrichum",
+  "disease": "Bệnh thán thư (Colletotrichum sp.)",
+  "section": "causes",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "thanthu_048"
+  ],
+  "gold_context": "Bệnh thán thư trên cây sầu riêng do nấm Colletotrichum spp. gây ra, trong đó tài liệu đề cập chủ yếu đến C. gloeosporioides. Đây là loại nấm đa ký chủ, có khả năng tồn tại và gây hại trên nhiều loại cây trồng khác nhau nên việc kiểm soát nguồn bệnh có thể gặp khó khăn. Đối với cây sầu riêng, nấm có thể tấn công nhiều bộ phận và đặc biệt đáng chú ý ở giai đoạn cây ra đọt non và lá non. Nguồn bệnh có thể tồn tại trên các tàn dư thực vật như lá và cành bị bệnh, đồng thời vết thương do côn trùng chích hút như rầy hoặc bọ trĩ tạo ra có thể trở thành vị trí để bào tử nấm xâm nhập vào mô cây. Vì vậy, nguồn nấm tồn tại trong vườn và các tổn thương trên lá là những yếu tố liên quan đến quá trình phát sinh bệnh.",
+  "source": "nhabeagri.com-Hướng dẫn phòng trừ bệnh thán thư trên cây sầu riêng hiệu quả.pdf"
+ },
+ {
+  "id": "Q047",
+  "question": "Bệnh lây lan bằng cách nào, và điều kiện nào tạo thuận lợi cho bào tử phát triển?",
+  "disease_key": "Colletotrichum",
+  "disease": "Bệnh thán thư (Colletotrichum sp.)",
+  "section": "causes",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "thanthu_083"
+  ],
+  "gold_context": "Bệnh thán thư trên sầu riêng được tài liệu xác định do nấm Colletotrichum spp. gây ra. Nấm có thể lây lan nhanh chóng thông qua gió, nước tưới và nước mưa. Những điều kiện như môi trường ẩm ướt, thiếu ánh sáng, dinh dưỡng không cân đối và vườn sầu riêng không được cắt tỉa gọn gàng tạo điều kiện thuận lợi cho bào tử nấm phát triển. Tài liệu đặc biệt lưu ý cây sầu riêng dễ bị nhiễm bệnh khi mới ra đọt non và lá non. Trong giai đoạn này, việc chăm sóc cây cần được chú ý nhằm hạn chế nguy cơ bệnh phát sinh. Đối với bệnh trên lá, nguồn bệnh và sự phát tán của nấm kết hợp với điều kiện vườn ẩm, thiếu ánh sáng và tán cây rậm là những yếu tố quan trọng được tài liệu đề cập.",
+  "source": "sataka.com.vn-Bệnh Thán Thư Trên Sầu Riêng Nguyên Nhân Biện Pháp Cách Điều Trị.pdf"
+ },
+ {
+  "id": "Q048",
+  "question": "Mưa kéo dài và độ ẩm bao nhiêu thì thuận lợi cho bệnh, và bào tử lan từ lá này sang lá khác thế nào?",
+  "disease_key": "Colletotrichum",
+  "disease": "Bệnh thán thư (Colletotrichum sp.)",
+  "section": "conditions",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "thanthu_066"
+  ],
+  "gold_context": "Mưa kéo dài và độ ẩm không khí cao là những điều kiện đặc biệt thuận lợi cho bệnh thán thư phát triển. Tài liệu cho biết khi mưa kéo dài nhiều ngày, thiếu ánh nắng và độ ẩm không khí tăng trên 85%, các bào tử nấm có điều kiện thuận lợi để nảy mầm. Những giọt mưa cũng có thể làm bào tử từ lá này bắn sang lá khác hoặc từ cây bệnh sang cây khỏe, tạo điều kiện cho bệnh lan rộng trong vườn. Đối với lá non, giai đoạn cây vừa nhú đọt được xem là thời điểm nhạy cảm vì lớp biểu bì của lá còn mỏng và mềm, khiến nấm dễ xâm nhập và gây cháy lá. Vì vậy, sự kết hợp giữa thời tiết ẩm ướt, mưa kéo dài và sự xuất hiện của lá non là điều kiện cần được chú ý khi theo dõi bệnh thán thư trên lá.",
+  "source": "nongnghiepdemen.vn-Bệnh Thán Thư Sầu Riêng Hướng Dẫn Nhận Biết Xử Lý Đúng Kỹ Thuật.pdf"
+ },
+ {
+  "id": "Q049",
+  "question": "Bệnh phát triển mạnh vào mùa nào, và vườn như thế nào thì tạo điều kiện cho nấm phát triển?",
+  "disease_key": "Colletotrichum",
+  "disease": "Bệnh thán thư (Colletotrichum sp.)",
+  "section": "conditions",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "thanthu_076"
+  ],
+  "gold_context": "Bệnh thán thư phát sinh và phát triển mạnh trong điều kiện thời tiết ẩm ướt, nhiệt độ cao và không khí lưu thông kém. Tài liệu cho biết bệnh thường xuất hiện nhiều vào mùa mưa khi độ ẩm trong không khí tăng cao. Những vườn sầu riêng không được tỉa cành và duy trì sự thông thoáng cũng tạo điều kiện thuận lợi cho nấm phát triển. Đối với khu vực lá, tán cây quá dày và sự lưu thông không khí kém có thể làm môi trường trong tán trở nên ẩm hơn, tạo điều kiện thuận lợi cho bệnh. Nấm Colletotrichum spp. còn có khả năng lây lan qua nước mưa, gió và tàn dư thực vật nhiễm bệnh. Vì vậy, thời tiết ẩm, nhiệt độ cao, mùa mưa, tán cây thiếu thông thoáng và sự tồn tại của nguồn bệnh trong vườn là những điều kiện được tài liệu liên hệ với sự phát sinh và lan truyền bệnh.",
+  "source": "santari.com.vn-Tổng Quan Về Bệnh Thán Thư Trên Sầu Riêng.pdf"
+ },
+ {
+  "id": "Q050",
+  "question": "Ngoài BL Kanamin 50WP, có thể phun hỗn hợp thuốc nào, gồm những hoạt chất gì?",
+  "disease_key": "Colletotrichum",
+  "disease": "Bệnh thán thư (Colletotrichum sp.)",
+  "section": "treatment",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "thanthu_101"
+  ],
+  "gold_context": "Ngoài BL Kanamin 50WP, phần biện pháp hóa học của tài liệu còn đề cập đến việc phun hỗn hợp GamycinUSA 185WP với TVZeb 800WP hoặc Hoanganhbul 72WP. GamycinUSA 185WP được nguồn mô tả có Streptomycin Sulphate và Kasugamycin, với công dụng phòng và trị vi khuẩn trên cây trồng; TVZeb 800WP có thành phần Mancozeb 800 g/kg và được mô tả là thuốc trừ bệnh dạng tiếp xúc. Tuy nhiên, tài liệu cũng ghi rõ TVZeb 800WP được đăng ký trừ bệnh phấn trắng trên hoa hồng, vì vậy thông tin đăng ký này không nên được diễn giải thành khuyến cáo riêng cho bệnh thán thư trên sầu riêng. Hoanganhbul 72WP được mô tả có hai hoạt chất tác động lên tế bào nấm, nhưng nguồn cũng ghi sản phẩm được đăng ký trừ phấn trắng trên hoa hồng. Do đó, các thông tin sản phẩm này chỉ được xem là thông tin kỹ thuật được nêu trong nguồn.",
+  "source": "saturnchem.com-PHÒNG TRỪ BỆNH THÁN THƯ TRÊN SẦU RIÊNG.pdf"
+ },
+ {
+  "id": "Q051",
+  "question": "Cần phun thuốc vào thời điểm nào, và liều pha BL Kanamin 50WP là bao nhiêu?",
+  "disease_key": "Colletotrichum",
+  "disease": "Bệnh thán thư (Colletotrichum sp.)",
+  "section": "treatment",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "thanthu_100"
+  ],
+  "gold_context": "Tài liệu khuyến cáo cần phun thuốc phòng trị bệnh thán thư sớm để đạt hiệu quả cao, đặc biệt trong giai đoạn mùa mưa. Một sản phẩm được nguồn đề cập là BL Kanamin 50WP, với hướng dẫn pha một gói 150 g với 200 lít nước trong phần biện pháp phòng trừ. Ở phần thông tin sản phẩm, tài liệu ghi BL.KANAMIN 50WP là thuốc trừ nấm và diệt khuẩn, được hướng dẫn phun ướt đều tán lá. Liều lượng được nêu là 1,5–2,0 kg/ha và thời điểm phun là khi bệnh mới xuất hiện. Tài liệu cũng ghi thời gian cách ly 7 ngày sau khi phun. Các thông tin này được giữ theo đúng hướng dẫn trong nguồn và không mở rộng sang các trường hợp sử dụng khác ngoài nội dung tài liệu.",
+  "source": "saturnchem.com-PHÒNG TRỪ BỆNH THÁN THƯ TRÊN SẦU RIÊNG.pdf"
+ },
+ {
+  "id": "Q052",
+  "question": "Các sản phẩm chứa hoạt chất nào được nêu để xử lý bệnh, và người phun cần lưu ý gì về an toàn?",
+  "disease_key": "Colletotrichum",
+  "disease": "Bệnh thán thư (Colletotrichum sp.)",
+  "section": "treatment",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "thanthu_111"
+  ],
+  "gold_context": "Trong biện pháp xử lý hóa học, tài liệu đề cập đến một số sản phẩm có chứa Bordeaux, Manzate và Propineb để hỗ trợ xử lý bệnh nấm thán thư. Nguồn đặt biện pháp hóa học trong tổng thể quản lý bệnh và khuyến cáo sử dụng thuốc theo hướng dẫn của nhà sản xuất. Tài liệu đồng thời lưu ý rằng việc sử dụng thuốc bảo vệ thực vật hóa học trong thời gian dài có thể ảnh hưởng đến sức khỏe người sử dụng và khuyến cáo người phun phải trang bị bảo hộ, tuân thủ hướng dẫn sử dụng. Vì vậy, đối với dữ liệu RAG về bệnh trên lá, các thông tin này được giữ ở mức nguồn cung cấp: Bordeaux, Manzate và Propineb được tài liệu nêu là các sản phẩm hỗ trợ xử lý nấm bệnh thán thư, nhưng nguồn không cung cấp liều lượng cụ thể cho từng hoạt chất trong phần này.",
+  "source": "sinhhocchaua.com-Nhận biết và phòng trừ bệnh thán thư trên sầu riêng.pdf"
+ },
+ {
+  "id": "Q053",
+  "question": "Xử lý bệnh bằng vệ sinh vườn và vi sinh vật đối kháng được thực hiện như thế nào?",
+  "disease_key": "Colletotrichum",
+  "disease": "Bệnh thán thư (Colletotrichum sp.)",
+  "section": "treatment",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "thanthu_073"
+  ],
+  "gold_context": "Tài liệu đề xuất xử lý bệnh thán thư bằng cách kết hợp vệ sinh vườn, tạo độ thông thoáng và sử dụng vi sinh vật đối kháng. Khi phát hiện triệu chứng trên lá, các phần lá và cành bị bệnh được khuyến cáo cắt bỏ và đưa ra khỏi vườn để tiêu hủy, nhằm hạn chế nguồn bào tử tiếp tục phát tán. Sau đó, cần tỉa bớt những cành tăm và cành khuất trong tán để tăng ánh sáng và giảm độ ẩm. Nguồn đề cập việc sử dụng tổ hợp Chaetomium và Nano Đồng, với hướng dẫn phun đẫm toàn bộ tán cây và phun nhắc lại sau 3–5 ngày. Tuy nhiên, tài liệu trình bày biện pháp này trong một quy trình sinh học tổng hợp và không cung cấp dữ liệu thử nghiệm định lượng riêng cho hiệu quả trên lá. Vì vậy, nội dung chunk chỉ ghi nhận đúng phương pháp xử lý được nguồn đề cập.",
+  "source": "nongnghiepdemen.vn-Bệnh Thán Thư Sầu Riêng Hướng Dẫn Nhận Biết Xử Lý Đúng Kỹ Thuật.pdf"
+ },
+ {
+  "id": "Q054",
+  "question": "Cần thực hiện thế nào về mật độ trồng, vệ sinh vườn và dụng cụ làm vườn để hạn chế bệnh?",
+  "disease_key": "Colletotrichum",
+  "disease": "Bệnh thán thư (Colletotrichum sp.)",
+  "section": "prevention",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "thanthu_117"
+  ],
+  "gold_context": "Để hạn chế bệnh thán thư, tài liệu khuyến cáo trồng cây với mật độ phù hợp, tránh trồng quá dày để cây có đủ không gian sinh trưởng và hạn chế sự lây lan của sâu bệnh. Trước khi bắt đầu vụ mới cần vệ sinh vườn, thu dọn tàn dư thực vật trên mặt đất và làm sạch khu vực trồng nhằm hạn chế nơi tồn tại của côn trùng gây hại và bào tử nấm bệnh. Dụng cụ làm vườn cũng cần được vệ sinh trước và sau khi sử dụng. Nhà vườn nên thường xuyên thăm vườn để theo dõi tình trạng cây và phát hiện sớm các dấu hiệu bệnh, từ đó có biện pháp xử lý kịp thời thay vì để bệnh phát triển nặng mới bắt đầu phòng trị.",
+  "source": "thienhawto.com.vn-BỆNH THÁN THƯ TRÊN SẦU RIÊNG.pdf"
+ },
+ {
+  "id": "Q055",
+  "question": "Vì sao nên phun phòng định kỳ và thăm vườn thường xuyên?",
+  "disease_key": "Colletotrichum",
+  "disease": "Bệnh thán thư (Colletotrichum sp.)",
+  "section": "prevention",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "thanthu_120"
+  ],
+  "gold_context": "Tài liệu khuyến cáo chủ động phun phòng trừ nấm bệnh và côn trùng gây hại cho vườn theo định kỳ, không nên chờ đến khi bệnh phát triển quá nặng mới bắt đầu xử lý. Biện pháp này được đặt cùng với việc thường xuyên thăm vườn để phát hiện sớm dấu hiệu bệnh. Đối với bệnh thán thư trên lá, việc kiểm tra thường xuyên có ý nghĩa trong việc phát hiện các tổn thương bắt đầu ở mép hoặc chóp lá và xử lý trước khi vết bệnh lan rộng. Nguồn cũng nhấn mạnh việc cắt bỏ và tiêu hủy các bộ phận bị bệnh nhằm tránh lây lan. Khi kết hợp giám sát vườn, vệ sinh tàn dư, duy trì thông thoáng và xử lý sớm, biện pháp quản lý có thể hạn chế điều kiện thuận lợi cho nấm Colletotrichum tiếp tục phát triển.",
+  "source": "thienhawto.com.vn-BỆNH THÁN THƯ TRÊN SẦU RIÊNG.pdf"
+ },
+ {
+  "id": "Q056",
+  "question": "Việc tỉa cành và lá có tác dụng gì trong việc hạn chế bệnh?",
+  "disease_key": "Colletotrichum",
+  "disease": "Bệnh thán thư (Colletotrichum sp.)",
+  "section": "prevention",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "thanthu_118"
+  ],
+  "gold_context": "Tỉa cành và lá là một trong những biện pháp được tài liệu đề xuất để hạn chế điều kiện thuận lợi cho bệnh thán thư phát triển. Nhà vườn nên cắt tỉa các cành và lá già yếu, cành lá khô nhằm giúp ánh sáng có thể chiếu đến toàn bộ cây. Việc tạo điều kiện thông thoáng được nguồn liên hệ với khả năng quang hợp tốt hơn và giảm độ ẩm trong vườn. Khi phát hiện bộ phận bị bệnh, cần cắt bỏ và mang đi tiêu hủy để hạn chế nguồn bệnh tiếp tục lây lan. Biện pháp này đặc biệt phù hợp với đặc điểm bệnh có thể tồn tại trong tàn dư cây bệnh và bào tử nấm có khả năng phát tán sang các cây khác. Vì vậy, vệ sinh và loại bỏ bộ phận bệnh cần được kết hợp với việc duy trì tán cây thông thoáng.",
+  "source": "thienhawto.com.vn-BỆNH THÁN THƯ TRÊN SẦU RIÊNG.pdf"
+ },
+ {
+  "id": "Q057",
+  "question": "Bệnh gây ảnh hưởng gì đến bộ lá và khả năng quang hợp của cây?",
+  "disease_key": "Colletotrichum",
+  "disease": "Bệnh thán thư (Colletotrichum sp.)",
+  "section": "impact",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "thanthu_032"
+  ],
+  "gold_context": "Bệnh thán thư gây ảnh hưởng trực tiếp đến bộ lá của cây sầu riêng. Khi các đốm bệnh lan rộng trên bề mặt lá, phần mô bị nhiễm có thể khô dần và lá bị bệnh nặng có thể rụng sớm. Tình trạng mất lá làm suy giảm khả năng quang hợp của cây theo nội dung tài liệu. Khi diện tích lá khỏe bị giảm, cây bị ảnh hưởng về khả năng duy trì hoạt động sinh trưởng bình thường. Nguồn cũng mô tả bệnh là một nguyên nhân có thể làm cây suy yếu nếu không được phát hiện và kiểm soát kịp thời. Do đó, trong phạm vi bệnh trên lá, tác động chính được ghi nhận là tổn thương mô lá, làm khô và rụng lá, từ đó làm giảm khả năng quang hợp và ảnh hưởng đến sức khỏe tổng thể của cây.",
+  "source": "congavang.com-Bệnh thán thư trên sầu riêng Dấu hiệu  cách điều trị tận gốc.pdf"
+ },
+ {
+  "id": "Q058",
+  "question": "Bệnh gây hại cho bộ lá thế nào, và cây ở độ tuổi nào dễ bị thiệt hại nhất?",
+  "disease_key": "Colletotrichum",
+  "disease": "Bệnh thán thư (Colletotrichum sp.)",
+  "section": "impact",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "thanthu_107"
+  ],
+  "gold_context": "Bệnh thán thư gây hại trực tiếp đến bộ lá của cây sầu riêng. Tài liệu ghi nhận bệnh có thể làm cháy lá và rụng lá, từ đó làm giảm khả năng quang hợp của cây. Khi bộ lá bị tổn thương nhiều, cây có thể phát triển kém. Nguồn đặc biệt lưu ý rằng cây trong giai đoạn từ vườn ươm đến khoảng ba năm tuổi dễ bị bệnh tấn công và có thể chịu nhiều thiệt hại. Đối với phạm vi chẩn đoán bệnh trên lá, tác động quan trọng được tài liệu ghi nhận là tổn thương bộ lá, giảm khả năng quang hợp, cháy lá và rụng lá. Những biểu hiện này có thể làm cây sinh trưởng kém hơn khi mức độ bệnh tăng cao.",
+  "source": "sinhhocchaua.com-Nhận biết và phòng trừ bệnh thán thư trên sầu riêng.pdf"
+ },
+ {
+  "id": "Q059",
+  "question": "Bệnh tiến triển thế nào trên lá và hoa?",
+  "disease_key": "Colletotrichum",
+  "disease": "Bệnh thán thư (Colletotrichum sp.)",
+  "section": "progression",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "thanthu_005"
+  ],
+  "gold_context": "Diễn biến bệnh thán thư trên sầu riêng có thể bắt đầu bằng những tổn thương cục bộ trên lá, hoa hoặc trái rồi tiếp tục lan rộng khi điều kiện thuận lợi. Trên lá, vết bệnh xuất hiện ở mép hoặc chóp lá dưới dạng các đốm tròn đồng tâm màu nâu sẫm hoặc đen, có viền vàng. Sau đó, vết bệnh mở rộng và gây khô cháy, làm lá rụng sớm. Trên hoa, các đốm nâu nhạt hoặc đen có thể xuất hiện trên cánh hoa, nhụy hoặc lá đài, khiến hoa rụng trước khi nở. Trên trái, bệnh bắt đầu tại hốc gai bằng các đốm nâu, sau đó lan rộng, chuyển đen và xuất hiện quầng vàng. Khi bệnh tiếp tục phát triển, trái có thể bị thối và rụng; trường hợp nặng có thể chín sớm và giảm chất lượng. Bệnh có thể lan nhanh hơn trong điều kiện sương mù và độ ẩm cao.",
+  "source": "bacsicayxanh.vn-Bệnh thán thư hại sầu riêng.pdf"
+ },
+ {
+  "id": "Q060",
+  "question": "Nếu sau khi phun thuốc mép lá vẫn vàng và vết bệnh vẫn lan thì nên hiểu và xử lý ra sao?",
+  "disease_key": "Colletotrichum",
+  "disease": "Bệnh thán thư (Colletotrichum sp.)",
+  "section": "faq",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "thanthu_027"
+  ],
+  "gold_context": "Tài liệu cũng đề cập trường hợp sau khi phun thuốc trị thán thư, mép lá vẫn vàng và vết bệnh tiếp tục lan rộng vào ngày hôm sau. Theo giải thích trong nguồn, khi vết bệnh đã xuất hiện quầng vàng hoặc tiếp tục lan rộng, điều này được xem là dấu hiệu nấm đã xâm nhập vào mô lá. Trong tình huống đó, tài liệu cho rằng thuốc chỉ có tác dụng tiếp xúc sẽ khó kiểm soát hoàn toàn bệnh và đề cập đến việc lựa chọn thuốc có tính nội hấp để hoạt chất có thể thấm vào mô cây. Nguồn đồng thời khuyến cáo hạn chế bón thừa phân đạm trong giai đoạn này, vì việc kích thích cây ra nhiều đọt non có thể tạo thêm các mô dễ nhiễm bệnh. Nội dung này được trình bày như một hướng xử lý trong trường hợp bệnh đã biểu hiện rõ trên lá.",
+  "source": "bvtvthienbinh.com-Bệnh thán thư sầu riêng Quy trình xử lý và phòng trừ hiệu quả nhất.pdf"
+ },
+ {
+  "id": "Q061",
+  "question": "Dấu hiệu ban đầu của bệnh trên lá là gì, đốm có kích thước và nằm ở mặt nào của lá?",
+  "disease_key": "Phomopsis",
+  "disease": "Bệnh đốm lá (Phomopsis sp.)",
+  "section": "symptoms",
+  "cause_type": "general",
+  "gold_chunk_ids": [
+   "domla_025"
+  ],
+  "gold_context": "Dấu hiệu dễ nhận biết nhất khi sầu riêng bị đốm lá là sự xuất hiện các đốm màu nâu trên lá. Ban đầu, các đốm bệnh chỉ nhỏ bằng đầu kim, có màu vàng nhạt và thường xuất hiện ở mặt trên của lá. Sau đó, các đốm bệnh dần mở rộng, chuyển sang màu nâu sẫm và có quầng vàng xung quanh. Vết bệnh có thể lan rộng khắp toàn bộ lá, khiến lá bị rụng sớm. Sự rụng lá ảnh hưởng trực tiếp đến khả năng quang hợp làm cây còi cọc, chậm phát triển. Bệnh còn có thể lây lan sang các bộ phận khác như cành, thân, quả và có thể gây chết cả cây nếu không được điều trị kịp thời.",
+  "source": "happyagri.com.vn-Bệnh Đốm Lá Sầu Riêng Nguyên Nhân Và Biện Pháp Phòng Trừ.pdf"
+ },
+ {
+  "id": "Q062",
+  "question": "Đốm bệnh đổi màu thế nào khi lan rộng, và bệnh ảnh hưởng gì đến cây con, cây tơ?",
+  "disease_key": "Phomopsis",
+  "disease": "Bệnh đốm lá (Phomopsis sp.)",
+  "section": "symptoms",
+  "cause_type": "general",
+  "gold_chunk_ids": [
+   "domla_067"
+  ],
+  "gold_context": "Triệu chứng bệnh đốm lá sầu riêng ban đầu là sự xuất hiện các đốm nhỏ li ti màu vàng nhạt ở mặt trên lá với kích thước chỉ bằng đầu kim. Đốm bệnh nhanh chóng mở rộng và chuyển sang màu nâu sẫm, xung quanh có viền vàng đặc trưng. Khi bệnh lan mạnh, các vết đốm hợp lại thành mảng lớn làm lá bị khô và rụng sớm. Ở cây con bệnh làm héo lá và mất khả năng phát triển; cây tơ chậm lớn, tán thưa; cây trưởng thành giảm quang hợp, khó phân hóa mầm hoa. Nếu không xử lý kịp, bệnh lan sang cành, thân, trái, khiến cây phục hồi khó khăn và có thể chết dần từ trên xuống.",
+  "source": "antinnong.com-Bệnh đốm lá sầu riêng và cách phòng trị bệnh hiệu quả.pdf"
+ },
+ {
+  "id": "Q063",
+  "question": "Bệnh bắt đầu trên lá non với những chấm có kích thước và màu sắc thế nào, và khi nặng thì lá ra sao?",
+  "disease_key": "Phomopsis",
+  "disease": "Bệnh đốm lá (Phomopsis sp.)",
+  "section": "symptoms",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "domla_004"
+  ],
+  "gold_context": "Dấu hiệu nhận biết bệnh đốm lá do nấm Phomopsis durionis gây ra bắt đầu trên lá non với những chấm tròn nhỏ màu nâu có kích thước khoảng 1 mm. Sau vài ngày, vết bệnh mở rộng dần, vùng giữa vết bệnh có màu nâu đen hoặc xám, viền ngoài màu vàng nhạt. Khi chuyển nặng, các đốm liên kết thành mảng cháy lớn làm lá khô giòn và rụng sớm. Ở cây con, bệnh nặng có thể làm ngọn trơ trụi, cây còi cọc và chết dần. Quan sát kỹ mặt dưới lá đôi khi thấy bào tử nấm nhỏ li ti như bụi phấn.",
+  "source": "agrifarmvn.com-Đốm lá sầu riêng  Nguyên nhân dấu hiệu và cách phòng trừ hiệu quả.pdf"
+ },
+ {
+  "id": "Q064",
+  "question": "Vết bệnh hoại tử có kích thước, hình dạng thế nào, và khi nhiễm nặng chuyển thành hình gì?",
+  "disease_key": "Phomopsis",
+  "disease": "Bệnh đốm lá (Phomopsis sp.)",
+  "section": "symptoms",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "domla_063"
+  ],
+  "gold_context": "Triệu chứng bệnh đốm lá sầu riêng do loài nấm Phomopsis durionis gây ra đặc trưng bởi các vết bệnh hoại tử có những đốm nhỏ màu nâu đen kích thước bằng đầu kim (đường kính khoảng 1 mm), mỗi vết bệnh đều có quầng vàng xung quanh. Vết bệnh ban đầu có dạng hình oval, khi bị nhiễm nặng hơn vết bệnh chuyển sang hình mắt cua có màu tro hoặc màu nâu phát triển dọc theo gân chính rồi lan dần vào bên trong phiến lá. Trong trường hợp nặng, toàn bộ lá sầu riêng có thể chuyển sang màu nâu hoàn toàn.",
+  "source": "tc9-2022.pdf"
+ },
+ {
+  "id": "Q065",
+  "question": "Bệnh đốm lá có thể do những loại tác nhân nào gây ra?",
+  "disease_key": "Phomopsis",
+  "disease": "Bệnh đốm lá (Phomopsis sp.)",
+  "section": "causes",
+  "cause_type": "general",
+  "gold_chunk_ids": [
+   "domla_018"
+  ],
+  "gold_context": "Bệnh đốm lá trên cây sầu riêng là một bệnh phổ biến và nguy hiểm do nấm gây ra, tấn công trên lá làm suy yếu khả năng quang hợp và giảm năng suất. Các loại nấm phổ biến như Cercospora, Colletotrichum, Alternaria, và Septoria phát triển mạnh trong điều kiện ẩm ướt và ấm áp, tấn công trực tiếp vào mô lá gây ra các vết thương. Ngoài ra, vi khuẩn và virus như Xanthomonas, Pseudomonas cũng là tác nhân chính trong môi trường độ ẩm cao. Căng thẳng từ điều kiện môi trường như nhiệt độ, độ ẩm, ánh sáng không phù hợp, thiếu hụt dinh dưỡng (kali, kẽm, sắt) hoặc sử dụng phân bón, thuốc bảo vệ thực vật sai cách cũng khiến lá xuất hiện vết đốm.",
+  "source": "hacoagri.com.vn-Cách Trị Và Phòng Ngừa Bệnh Đốm Lá Trên Cây Sầu Riêng.pdf"
+ },
+ {
+  "id": "Q066",
+  "question": "Bệnh thường gặp ở giai đoạn nào của cây, và vườn như thế nào thì bệnh phát triển mạnh?",
+  "disease_key": "Phomopsis",
+  "disease": "Bệnh đốm lá (Phomopsis sp.)",
+  "section": "causes",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "domla_091"
+  ],
+  "gold_context": "Bệnh đốm lá sầu riêng là loại bệnh thường gặp phổ biến ở thời kỳ cây con, ban đầu khi phát bệnh lá xuất hiện các vết đốm màu vàng, lâu dần vết bệnh tăng kích thước khiến lá bị rụng, gây ảnh hưởng xấu tới năng suất và chất lượng quả sau này. Bệnh phát triển mạnh ở những vườn trồng quá dày, rậm rạp kém thông thoáng, thiếu ánh sáng, thiếu chăm sóc và không được phun phòng nấm khuẩn định kỳ. Đặc biệt, thời tiết trong mùa mưa, nhất là những tháng có mưa dầm kéo dài liên tục chính là điều kiện rất thuận lợi cho bệnh đốm lá bùng phát.",
+  "source": "nhatnonggroup.com-Đốm lá trên Sầu Riêng.pdf"
+ },
+ {
+  "id": "Q067",
+  "question": "Nấm gây bệnh phát triển mạnh ở nhiệt độ nào, và xâm nhập vào cây bằng đường nào?",
+  "disease_key": "Phomopsis",
+  "disease": "Bệnh đốm lá (Phomopsis sp.)",
+  "section": "causes",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "domla_096"
+  ],
+  "gold_context": "Nấm Phomopsis durionis thuộc chi Phomopsis, là một loại nấm dạng sợi phát triển mạnh trong điều kiện ẩm ướt và nhiệt độ ấm áp khoảng từ 25-30°C. Nấm sinh sôi nhanh khi độ ẩm cao, đặc biệt là trong mùa mưa. Nấm Phomopsis durionis thường xâm nhập vào cây qua các vết thương hở trên lá, thân và quả do côn trùng, gió bão hoặc tác động cơ học như quá trình cắt tỉa. Sau khi xâm nhập, nấm phát triển các sợi nấm (mycelium) bên trong mô cây, lan rộng trong các mô lá và thân, gây phá hủy cấu trúc tế bào.",
+  "source": "hoangminhbiochem.com-Bệnh đốm mắt cua trên cây sầu riêng.pdf"
+ },
+ {
+  "id": "Q068",
+  "question": "Vườn trồng như thế nào và vào thời điểm nào thì bệnh phát sinh và phát triển mạnh?",
+  "disease_key": "Phomopsis",
+  "disease": "Bệnh đốm lá (Phomopsis sp.)",
+  "section": "conditions",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "domla_051"
+  ],
+  "gold_context": "Bệnh đốm lá sầu riêng phát sinh và phát triển mạnh ở những vườn trồng với mật độ quá dày, cây cối rậm rạp, thiếu ánh sáng và kém thông thoáng. Những vườn ít được chăm sóc hoặc có nhiều cây lớn tuổi cũng là môi trường lý tưởng cho bệnh lây lan. Bệnh bùng phát mạnh vào mùa mưa, nhất là các tháng mưa dầm liên tục làm độ ẩm tăng cao. Ngoài ra, các vết thương hở trên cây do côn trùng chích hút tạo điều kiện cho nấm dễ dàng xâm nhập và gây hại.",
+  "source": "sataka.com.vn-Tìm Hiểu Bệnh Đốm Lá Trên Cây Sầu Riêng Và Biện Pháp Phòng Trừ.pdf"
+ },
+ {
+  "id": "Q069",
+  "question": "Vì sao mưa dầm kéo dài và côn trùng chích hút làm bệnh bùng phát?",
+  "disease_key": "Phomopsis",
+  "disease": "Bệnh đốm lá (Phomopsis sp.)",
+  "section": "conditions",
+  "cause_type": "general",
+  "gold_chunk_ids": [
+   "domla_040"
+  ],
+  "gold_context": "Bệnh đốm lá trên cây sầu riêng bùng phát mạnh vào mùa mưa, nhất là trong các đợt mưa dầm kéo dài khiến độ ẩm cao liên tục, tạo điều kiện lý tưởng cho bào tử nấm phát triển và xâm nhập. Ngoài ra, các vết thương cơ học do côn trùng chích hút như bọ trĩ, rầy mềm làm suy yếu lớp bảo vệ của cây, tạo đường mở cho nấm dễ dàng tấn công gây ra đốm hoại tử. Những vườn cây rậm rạp, thiếu ánh sáng, kém thông thoáng, vườn cây lớn tuổi ít cắt tỉa hoặc phun phân bón lá quá mức cũng tạo môi trường thuận lợi cho nấm sinh sôi và gây hại diện rộng.",
+  "source": "nguyenlieusinhhoc.com-Bệnh đốm lá trên cây sầu riêng Nguyên nhân  Cách phòng trị.pdf"
+ },
+ {
+  "id": "Q070",
+  "question": "Khi phát hiện bệnh cần làm gì với bộ phận bị bệnh, và chế phẩm nào có thể tiêu diệt nấm lưu trú trong vườn bao lâu?",
+  "disease_key": "Phomopsis",
+  "disease": "Bệnh đốm lá (Phomopsis sp.)",
+  "section": "treatment",
+  "cause_type": "general",
+  "gold_chunk_ids": [
+   "domla_085"
+  ],
+  "gold_context": "Khi phát hiện cây sầu riêng bị bệnh đốm lá, cần cắt tỉa những bộ phận bị bệnh đem đi tiêu hủy để tránh lây lan. Về giải pháp bảo vệ thực vật, kết hợp sử dụng Vắc xin và Siêu đồng (chứa thành phần nấm Chaetomium và công thức đồng CuSO4) có khả năng tiêu diệt nấm hại, lưu trú trong vườn đến 20 ngày mà không ảnh hưởng sự phát triển của cây và trái non. Bên cạnh đó, nên bổ sung định kỳ phân chuồng ủ hoai mục bằng nấm Trichoderma để bổ sung dinh dưỡng dồi dào và các vi sinh vật có lợi vào đất.",
+  "source": "baovinhlong.com.vn-Phòng trị bệnh đốm lá sầu riêng.pdf"
+ },
+ {
+  "id": "Q071",
+  "question": "Khi cây vừa mới nhiễm bệnh nên dùng hoạt chất nào, phun mấy lần và cách nhau bao lâu?",
+  "disease_key": "Phomopsis",
+  "disease": "Bệnh đốm lá (Phomopsis sp.)",
+  "section": "treatment",
+  "cause_type": "general",
+  "gold_chunk_ids": [
+   "domla_033"
+  ],
+  "gold_context": "Khi phát hiện lá bị bệnh đốm lá tấn công, nhà vườn cần nhanh chóng ngắt bỏ những lá bị bệnh đó đem đi tiêu hủy an toàn để tránh tình trạng bệnh lây lan trong vườn. Trong trường hợp cây vừa mới xuất hiện bệnh, nên sử dụng các loại thuốc bảo vệ thực vật chứa các hoạt chất như thuốc gốc đồng hoặc kết hợp Mancozeb + Metalaxyl để phun trực tiếp trên lá. Tiến hành phun thuốc 2 lần, mỗi lần cách nhau từ 5 đến 7 ngày để điều trị triệt để bệnh cho cây sầu riêng.",
+  "source": "kimnonggoldstar.vn-Bệnh đốm lá sầu riêng và biện pháp phòng trị.pdf"
+ },
+ {
+  "id": "Q072",
+  "question": "Có thể dùng loại nấm đối kháng nào để phòng trị, và cần xử lý tàn cây, đất trồng ra sao?",
+  "disease_key": "Phomopsis",
+  "disease": "Bệnh đốm lá (Phomopsis sp.)",
+  "section": "treatment",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "domla_090"
+  ],
+  "gold_context": "Trong trường hợp cây sầu riêng bị nhiễm bệnh đốm lá (cháy lá), nhà vườn có thể sử dụng nấm đối kháng Trichoderma để phòng trị, kết hợp với việc phun thuốc đặc trị lên tàn cây và tiến hành xử lý đất trồng. Đồng thời, cần thực hiện cắt tỉa và tiêu hủy hoàn toàn các cành, lá đã bị nhiễm bệnh để ngăn chặn sự lây lan mầm bệnh sang các cây khác trong vườn.",
+  "source": "annong.vn-Phòng trị bệnh đốm lá trên cây Sầu Riêng hiệu quả.pdf"
+ },
+ {
+  "id": "Q073",
+  "question": "Pha chế phẩm Vaccin và Siêu đồng với nước như thế nào, và hiệu quả sau bao lâu?",
+  "disease_key": "Phomopsis",
+  "disease": "Bệnh đốm lá (Phomopsis sp.)",
+  "section": "treatment",
+  "cause_type": "fungal",
+  "gold_chunk_ids": [
+   "domla_080"
+  ],
+  "gold_context": "Khi phát hiện cây sầu riêng bị bệnh đốm lá, cần cắt tỉa những bộ phận bị bệnh đem đi tiêu hủy để tránh lây lan. Sử dụng kết hợp chế phẩm Vaccin và Siêu đồng (chứa bào tử nấm Chaetomium và công thức đồng CuSO4) có khả năng tiêu diệt nấm hại, lưu trú trong vườn đến 20 ngày mà không ảnh hưởng cây và quả non. Pha 500ml Siêu đồng + 200ml Vaccin với 200 lít nước, phun trực tiếp lên cây 2 lần liên tiếp, mang lại hiệu quả sau 3-5 ngày. Có thể ứng dụng dịch vụ phun thuốc bằng máy bay không người lái để nâng cao hiệu quả và tiết kiệm chi phí.",
+  "source": "digidrone.vn-Bệnh đốm lá trên cây sầu riêng nguyên nhân & cách phòng tránh.pdf"
+ },
+ {
+  "id": "Q074",
+  "question": "Biện pháp canh tác và sinh học nào phòng ngừa bệnh, nhất là về cắt tỉa và dinh dưỡng?",
+  "disease_key": "Phomopsis",
+  "disease": "Bệnh đốm lá (Phomopsis sp.)",
+  "section": "prevention",
+  "cause_type": "general",
+  "gold_chunk_ids": [
+   "domla_060"
+  ],
+  "gold_context": "Biện pháp canh tác và sinh học phòng ngừa bệnh đốm lá sầu riêng: Trồng cây mật độ thích hợp, chọn giống sạch bệnh. Cắt tỉa cành thông thoáng (đặc biệt cành sát đất, cành giao tán). Bổ sung dinh dưỡng cân đối đầy đủ đa trung vi lượng, tránh bón thừa đạm. Kiểm tra vườn thường xuyên khi ra lá non trong điều kiện có sương hoặc mưa. Tăng cường bón phân hữu cơ vi sinh (Trichomix-CTĐ, Trimix-N1) trong mùa mưa để tăng sức đề kháng. Định kỳ hàng tháng mùa mưa hoặc khi nhiều sương, phun ướt 2 mặt lá bằng chế phẩm sinh học như Tricho-Nema, Trichoderma.",
+  "source": "vietthanghanoi.vn-Bệnh đốm lá trên cây sầu riêng và biện pháp phòng trừ.pdf"
+ },
+ {
+  "id": "Q075",
+  "question": "Trong mùa mưa hoặc thời tiết nhiều sương cần làm gì để phòng bệnh, và nên bón loại phân nào?",
+  "disease_key": "Phomopsis",
+  "disease": "Bệnh đốm lá (Phomopsis sp.)",
+  "section": "prevention",
+  "cause_type": "general",
+  "gold_chunk_ids": [
+   "domla_037"
+  ],
+  "gold_context": "Biện pháp canh tác và sinh học phòng ngừa đốm lá sầu riêng bao gồm: Trồng cây với mật độ thích hợp, chọn giống sạch bệnh, cắt tỉa cành thông thoáng (nhất là cành sát đất, cành giao tán). Thường xuyên thăm vườn kiểm tra khi cây ra lá non trong điều kiện có sương hoặc mưa. Bổ sung dinh dưỡng cân đối, tránh bón thừa đạm. Tăng cường bón phân hữu cơ vi sinh trong mùa mưa. Hàng tháng vào mùa mưa hoặc thời tiết nhiều sương, tiến hành phun xịt ướt đều 2 mặt lá bằng các chế phẩm sinh học có khả năng đối kháng tốt với nấm bệnh.",
+  "source": "lotus-agrochem.com.vn-ĐỐM LÁ SẦU RIÊNG NGUYÊN NHÂN VÀ CÁCH PHÒNG NGỪA.pdf"
+ },
+ {
+  "id": "Q076",
+  "question": "Về chọn giống và mật độ trồng thì nên làm gì để phòng bệnh?",
+  "disease_key": "Phomopsis",
+  "disease": "Bệnh đốm lá (Phomopsis sp.)",
+  "section": "prevention",
+  "cause_type": "general",
+  "gold_chunk_ids": [
+   "domla_074"
+  ],
+  "gold_context": "Biện pháp canh tác và sinh học phòng ngừa đốm lá sầu riêng: Trồng cây với mật độ thích hợp, chọn giống sạch bệnh, cắt tỉa cành thông thoáng (nhất là cành sát đất, cành giao tán). Bổ sung dinh dưỡng cân đối đầy đủ đa trung vi lượng, tránh bón thừa đạm. Kiểm tra vườn thường xuyên khi cây ra lá non trong điều kiện sương hoặc mưa liên tục. Tăng cường bón phân hữu cơ vi sinh (Trichomix-CTĐ, Trimix-N1...) trong mùa mưa để tăng sức đề kháng. Định kỳ hàng tháng trong mùa mưa hoặc khi nhiều sương, phun xịt ướt đều 2 mặt lá bằng chế phẩm sinh học đối kháng nấm bệnh như Tricho-Nema, Trichoderma.",
+  "source": "dichvukhuyennong.com-BIỆN PHÁP PHÒNG TRỪ BỆNH ĐỐM LÁ TRÊN SẦU RIÊNG.pdf"
+ },
+ {
+  "id": "Q077",
+  "question": "Nếu bệnh xảy ra khi cây đang ra hoa đậu trái thì ảnh hưởng gì?",
+  "disease_key": "Phomopsis",
+  "disease": "Bệnh đốm lá (Phomopsis sp.)",
+  "section": "impact",
+  "cause_type": "general",
+  "gold_chunk_ids": [
+   "domla_047"
+  ],
+  "gold_context": "Bệnh đốm lá là một trong những bệnh thường gặp làm suy giảm khả năng quang hợp và dẫn đến rụng lá nhiều trên cây sầu riêng, khiến cây rơi vào tình trạng còi cọc và kém phát triển. Trong trường hợp bệnh đốm lá gây hại trong giai đoạn cây sầu riêng đang ra hoa đậu trái, bệnh sẽ khiến cây đậu trái kém, trái phát triển bị méo mó và rất dễ bị rụng. Nếu bệnh xuất hiện thì nhà vườn cần phải có biện pháp xử lý kịp thời để tránh ảnh hưởng đến sự phát triển chung của cây sầu riêng.",
+  "source": "nongnghiepthuanthien.vn-Bệnh đốm lá gây hại trên cây sầu riêng.pdf"
+ },
+ {
+  "id": "Q078",
+  "question": "Bệnh ảnh hưởng thế nào đến việc ra hoa, kết trái và chất lượng trái?",
+  "disease_key": "Phomopsis",
+  "disease": "Bệnh đốm lá (Phomopsis sp.)",
+  "section": "impact",
+  "cause_type": "general",
+  "gold_chunk_ids": [
+   "domla_078"
+  ],
+  "gold_context": "Bệnh đốm lá ảnh hưởng lớn đến sức khỏe và năng suất của cây sầu riêng. Nếu cây bị nhiễm bệnh trong giai đoạn đang ra hoa kết trái thì cây sẽ ra hoa ít, khả năng kết trái kém. Trái sầu riêng phát triển ở giai đoạn sau sẽ bị lép, kích thước nhỏ và phát triển không đều. Việc lá rụng nhiều làm suy giảm quang hợp khiến cây còi cọc, kém phát triển, nếu không có biện pháp xử lý kịp thời bệnh sẽ gây thất thoát năng suất lớn.",
+  "source": "digidrone.vn-Bệnh đốm lá trên cây sầu riêng nguyên nhân & cách phòng tránh.pdf"
+ },
+ {
+  "id": "Q079",
+  "question": "Làm sao phân biệt bệnh do nấm và do vi khuẩn gây ra?",
+  "disease_key": "Phomopsis",
+  "disease": "Bệnh đốm lá (Phomopsis sp.)",
+  "section": "faq",
+  "cause_type": "general",
+  "gold_chunk_ids": [
+   "domla_017"
+  ],
+  "gold_context": "Bệnh đốm lá sầu riêng thường xuất hiện mạnh vào đầu và giữa mùa mưa, khi độ ẩm không khí cao và vườn rậm rạp, thiếu thông thoáng, hoặc khi cây suy yếu sau thu hoạch, thiếu dinh dưỡng. Để phân biệt: Đốm lá do nấm có vết bệnh chứa vòng đồng tâm, viền vàng nâu, lan rộng và dễ khô giòn. Đốm lá do vi khuẩn có vết bệnh loang nước, màu vàng nhạt, mép không rõ ràng và lan nhanh khi nóng hoặc mưa nhiều. Trong mùa mưa nên phun phòng định kỳ 20-30 ngày/lần bằng gốc đồng, mancozeb, metalaxyl, azoxystrobin.",
+  "source": "agrifarmvn.com-Đốm lá sầu riêng  Nguyên nhân dấu hiệu và cách phòng trừ hiệu quả.pdf"
+ },
+ {
+  "id": "Q080",
+  "question": "Triệu chứng ban đầu và về sau của bệnh trên lá già, lá non là gì?",
+  "disease_key": "Phomopsis",
+  "disease": "Bệnh đốm lá (Phomopsis sp.)",
+  "section": "symptoms",
+  "cause_type": "general",
+  "gold_chunk_ids": [
+   "domla_087"
+  ],
+  "gold_context": "Bệnh đốm lá sầu riêng có thể xảy ra trên cả lá già và lá non. Triệu chứng biểu hiện ban đầu là các đốm tròn nhỏ, sũng nước hoặc bỏng sôi trên lá, sau đó lan rộng dần từ đầu lá về phía cuống lá. Sau một thời gian, các vết bệnh này khô lại, chuyển sang màu nâu cháy làm lá sầu riêng bị co quắp và biến dạng. Lá nhiễm bệnh thường bị rụng sớm, trường hợp nặng làm tán cây bị cháy lá, làm suy giảm khả năng quang hợp và ảnh hưởng xấu đến quá trình ra hoa. Bệnh ban đầu xuất hiện từng cụm trong vườn rồi lan rộng, có thể tấn công thân non làm khô và đổi màu ngọn cây sang trắng xám.",
+  "source": "annong.vn-Phòng trị bệnh đốm lá trên cây Sầu Riêng hiệu quả.pdf"
+ },
+ {
+  "id": "Q081",
+  "question": "Vết bệnh trên lá có hình dạng, kích thước, màu sắc thế nào, và xuất hiện ở mặt nào của lá?",
+  "disease_key": "Algal",
+  "disease": "Bệnh đốm rong (Cephaleuros virescens)",
+  "section": "symptoms",
+  "cause_type": "algal",
+  "gold_chunk_ids": [
+   "domrong_039"
+  ],
+  "gold_context": "Trên lá sầu riêng, bệnh đốm rong biểu hiện bằng các đốm bệnh có dạng tròn, đường kính khoảng 3–5 mm. Các vết bệnh nhô lên và cao hơn so với bề mặt lá. Vết bệnh có màu nâu đỏ gạch cua và trên đó phát triển một lớp tảo mịn. Theo tài liệu, các vết bệnh chỉ xuất hiện ở mặt trên của lá, trong khi mặt dưới lá vẫn bình thường. Những đặc điểm này tạo thành các dấu hiệu hình thái quan trọng để nhận biết bệnh trên lá, bao gồm hình dạng tròn, kích thước tương đối nhỏ, màu nâu đỏ gạch cua, bề mặt nhô lên và có lớp tảo mịn. Khi điều kiện môi trường thích hợp, các vết bệnh có thể tiếp tục phát triển và lan rộng trên bề mặt lá. Việc quan sát cả màu sắc, hình dạng, vị trí xuất hiện và đặc điểm bề mặt của vết bệnh có thể hỗ trợ quá trình nhận biết bệnh.",
+  "source": "alphaagrochem.com-Bệnh đốm rong trên sầu riêng và cách khắc phục.pdf"
+ },
+ {
+  "id": "Q082",
+  "question": "Trên thân và cành già, vết bệnh ban đầu và về sau trông như thế nào?",
+  "disease_key": "Algal",
+  "disease": "Bệnh đốm rong (Cephaleuros virescens)",
+  "section": "symptoms",
+  "cause_type": "algal",
+  "gold_chunk_ids": [
+   "domrong_080"
+  ],
+  "gold_context": "Trên thân và cành sầu riêng, bệnh đốm rong thường tấn công những bộ phận già của tán cây. Ban đầu, các vết bệnh xuất hiện dưới dạng những chấm nhỏ có hình tròn hoặc hình bầu dục và có màu xanh. Theo thời gian, các chấm bệnh lớn dần về kích thước và phát triển thành từng mảng trên bề mặt thân hoặc cành. Vết bệnh có một lớp tơ màu xanh rêu, trong khi phần giữa thường có màu đỏ nâu. Sự kết hợp giữa hình dạng tròn hoặc bầu dục, màu xanh rêu của lớp tơ và phần trung tâm màu đỏ nâu là những đặc điểm có thể dùng để nhận biết bệnh trên thân và cành. Việc kiểm tra các bộ phận già của tán cây có ý nghĩa trong việc phát hiện bệnh.",
+  "source": "kimnonggoldstar.vn-Bệnh đốm rong trên cây sầu riêng và biện pháp quản lý.pdf"
+ },
+ {
+  "id": "Q083",
+  "question": "Bệnh gây hại trên những bộ phận nào của cây, và thường không thấy trên loại lá nào?",
+  "disease_key": "Algal",
+  "disease": "Bệnh đốm rong (Cephaleuros virescens)",
+  "section": "symptoms",
+  "cause_type": "algal",
+  "gold_chunk_ids": [
+   "domrong_145"
+  ],
+  "gold_context": "Triệu chứng bệnh đốm rong trên cây sầu riêng có thể xuất hiện và gây hại trên thân cây, cành già và lá già, trong khi nguồn cho biết thường không thấy bệnh trên lá non và lá bánh tẻ. Trên thân và cành, bệnh thường bắt đầu bằng những chấm nhỏ có màu xanh, hình tròn hoặc bầu dục. Sau đó, các chấm bệnh lớn dần và phát triển thành từng mảng. Những mảng bệnh này có thể lớn hơn so với các mảng bệnh do nấm gây ra. Trên bề mặt vết bệnh có lớp tơ mịn màu xanh rêu và phần giữa có màu đỏ nâu. Khi bệnh lan rộng, vỏ cành có thể bị nứt, khiến cây phát triển kém và trở nên còi cọc. Nguồn cũng ghi nhận rằng bệnh thường ít ảnh hưởng đến trái nhưng khi trở nặng có thể lan và ảnh hưởng đến trái sầu riêng.",
+  "source": "taydojsc.com.vn-Phòng ngừa và điều trị bệnh đốm rong trên cây sầu riêng.pdf"
+ },
+ {
+  "id": "Q084",
+  "question": "Khi nhiễm nặng, các đốm trên lá có mật độ thế nào và ảnh hưởng gì đến lá?",
+  "disease_key": "Algal",
+  "disease": "Bệnh đốm rong (Cephaleuros virescens)",
+  "section": "symptoms",
+  "cause_type": "algal",
+  "gold_chunk_ids": [
+   "domrong_158"
+  ],
+  "gold_context": "Bệnh đốm rong gây hại trên hầu hết các bộ phận của cây sầu riêng từ thân, cành đến lá, trong đó mỗi bộ phận sẽ có những biểu hiện đặc trưng riêng. Vết bệnh thường xuất hiện trên bề mặt lá với những đốm tròn màu nâu đỏ và hơi nhô lên. Khi tình trạng nhiễm bệnh trở nên nghiêm trọng, các đốm rong sẽ xuất hiện với mật độ dày đặc chi chít, làm cho lá cây bị thô cứng và ảnh hưởng trực tiếp đến chức năng sinh lý của lá.",
+  "source": "sittovietnam.com-Bệnh đốm rong trên cây sầu riêng mùa mưa_ Nguyên nhân, triệu chứng và – Sitto Việt Nam.pdf"
+ },
+ {
+  "id": "Q085",
+  "question": "Tác nhân gây bệnh là gì, và nó làm suy yếu quang hợp của cây như thế nào?",
+  "disease_key": "Algal",
+  "disease": "Bệnh đốm rong (Cephaleuros virescens)",
+  "section": "causes",
+  "cause_type": "algal",
+  "gold_chunk_ids": [
+   "domrong_055"
+  ],
+  "gold_context": "Bệnh đốm lá tảo, còn gọi là bệnh đốm rong, trên cây sầu riêng do tảo Cephaleuros virescens gây ra. Các bào tử của tác nhân gây bệnh có thể rơi xuống bề mặt lá, nảy mầm và xâm nhập vào mô thực vật. Sự phát triển của tác nhân trên lá làm cản trở ánh sáng đi qua bề mặt lá, từ đó làm suy yếu khả năng quang hợp của cây. Khi mức độ nhiễm bệnh nghiêm trọng, các vùng bị bệnh có thể phát triển dày đặc, khiến lá khô héo và rụng xuống. Bệnh thường xuất hiện phổ biến trên cây sầu riêng vào mùa mưa. Theo tài liệu, bệnh cũng thường xuất hiện ở giai đoạn trước và sau thu hoạch, khi cây có sức đề kháng kém và dễ bị tác nhân gây bệnh tấn công.",
+  "source": "giangtaycorp.com-BỆNH ĐỐM RONG TRÊN CÂY SẦU RIÊNG.pdf"
+ },
+ {
+  "id": "Q086",
+  "question": "Tác nhân gây bệnh tồn tại và lây lan trong tự nhiên như thế nào?",
+  "disease_key": "Algal",
+  "disease": "Bệnh đốm rong (Cephaleuros virescens)",
+  "section": "causes",
+  "cause_type": "algal",
+  "gold_chunk_ids": [
+   "domrong_093"
+  ],
+  "gold_context": "Bệnh đốm rong trên cây sầu riêng có liên quan đến tác nhân tảo Cephaleuros virescens. Mầm bệnh này dễ tồn tại trong tự nhiên và có khả năng lây lan do ký sinh trên nhiều loại cây trồng khác nhau. Vì có khả năng tồn tại và phát tán trong môi trường, nguồn tác nhân gây bệnh có thể xuất hiện trong khu vực trồng trọt và tiếp tục gây hại khi gặp điều kiện thuận lợi. Bệnh không chỉ ảnh hưởng đến một bộ phận riêng lẻ mà có thể gây hại trên thân, cành và lá của cây sầu riêng. Khi bệnh phát triển mạnh, cây có thể bị ảnh hưởng đến quá trình quang hợp, xuất hiện các tổn thương trên thân và cành, đồng thời làm suy giảm khả năng sinh trưởng.",
+  "source": "nicotex.vn-Bệnh đốm rong sầu riêng và giải pháp phòng trừ(1).pdf"
+ },
+ {
+  "id": "Q087",
+  "question": "Tác nhân xâm nhập vào cây qua đâu, và những nguyên nhân liên quan nào làm bệnh phát sinh?",
+  "disease_key": "Algal",
+  "disease": "Bệnh đốm rong (Cephaleuros virescens)",
+  "section": "causes",
+  "cause_type": "algal",
+  "gold_chunk_ids": [
+   "domrong_124"
+  ],
+  "gold_context": "Theo nguồn Nông Nghiệp SOFa, bệnh đốm rong trên cây sầu riêng được mô tả là bệnh do nấm gây ra và thường phát sinh trong môi trường ẩm ướt, thời tiết ấm. Bệnh bắt đầu khi tác nhân gây bệnh xâm nhập qua các vết trầy, vết hở hoặc tổn thương trên thân cây, sau đó phát triển và tạo các đốm bệnh trên lá, hoa và trái. Nguồn cũng nêu các nguyên nhân liên quan gồm độ ẩm cao, nhiệt độ cao, tổn thương do côn trùng hoặc va chạm, lây nhiễm từ cây bệnh sang cây khỏe thông qua tiếp xúc hoặc dụng cụ canh tác, và điều kiện vệ sinh vườn kém. Các phần cây chết hoặc hư hỏng nếu không được loại bỏ có thể trở thành nơi lưu giữ và phát triển của tác nhân gây bệnh.",
+  "source": "nongnghiepsofa.com-Phòng trị bệnh Đốm Rong Trên cây Sầu Riêng.pdf"
+ },
+ {
+  "id": "Q088",
+  "question": "Bệnh lây lan qua những con đường nào?",
+  "disease_key": "Algal",
+  "disease": "Bệnh đốm rong (Cephaleuros virescens)",
+  "section": "conditions",
+  "cause_type": "algal",
+  "gold_chunk_ids": [
+   "domrong_004"
+  ],
+  "gold_context": "Cephaleuros virescens có thể lây lan thông qua nhiều con đường, trong đó gió và nước mưa đóng vai trò quan trọng. Gió có thể mang các mảnh tảo hoặc bào tử khô từ cây này sang cây khác và từ khu vực này sang khu vực khác. Nước mưa hoặc nước tưới giúp bào tử động di chuyển trên bề mặt cây và tiếp cận các mô non yếu. Côn trùng cũng có thể đóng vai trò trung gian trong việc phát tán mầm bệnh. Theo tài liệu, bệnh thường phát triển và lây lan nhanh vào mùa mưa, khi độ ẩm không khí cao, đặc biệt trong các vườn cây rậm rạp và thiếu ánh sáng. Vì vậy, việc kiểm soát nguồn nước, độ ẩm và vệ sinh vườn có ý nghĩa trong việc hạn chế sự phát tán của bệnh.",
+  "source": "Sầu Riêng Bị Đốm Rong _ Nguyên Nhân, Tác Hại Và Giải Pháp Trị Tận Gốc.pdf"
+ },
+ {
+  "id": "Q089",
+  "question": "Bệnh phát triển mạnh vào mùa nào, và vườn như thế nào thì thuận lợi cho bệnh?",
+  "disease_key": "Algal",
+  "disease": "Bệnh đốm rong (Cephaleuros virescens)",
+  "section": "conditions",
+  "cause_type": "algal",
+  "gold_chunk_ids": [
+   "domrong_048"
+  ],
+  "gold_context": "Bệnh đốm rong thường phát triển mạnh trong mùa mưa, đặc biệt tại những vườn có tán cây rậm rạp, thiếu ánh sáng và độ ẩm cao. Tình trạng trồng xen cũng có thể làm môi trường trong vườn trở nên ẩm và kém thông thoáng, tạo điều kiện thuận lợi cho tảo phát triển. Trong mùa mưa, các tản rong có khả năng tích nước từ môi trường bên ngoài, làm độ ẩm trên cành tăng cao. Khi độ ẩm duy trì ở mức cao, mầm bệnh có điều kiện phát tán và gây ảnh hưởng đến các bộ phận của cây. Vì vậy, việc quản lý độ thông thoáng của vườn, hạn chế tình trạng rậm rạp và kiểm soát độ ẩm là những yếu tố quan trọng trong quản lý bệnh đốm rong. Những vườn trồng xen giữa sầu riêng với các loại cây khác cũng cần được chú ý vì có thể tạo môi trường thuận lợi cho bệnh phát triển.",
+  "source": "anphatnong.com.vn-ĐỐM RONG TRÊN CÂY SẦU RIÊNG - NGUYÊN NHÂN VÀ CÁCH XỬ LÝ (1).pdf"
+ },
+ {
+  "id": "Q090",
+  "question": "Quy trình đặc trị gồm mấy bước, liều pha thuốc đặc trị bao nhiêu và phun vào thời điểm nào?",
+  "disease_key": "Algal",
+  "disease": "Bệnh đốm rong (Cephaleuros virescens)",
+  "section": "treatment",
+  "cause_type": "algal",
+  "gold_chunk_ids": [
+   "domrong_165"
+  ],
+  "gold_context": "Quy trình đặc trị bệnh đốm rong gồm 3 bước thực hiện: Bước 1 là vệ sinh cắt tỉa cành lá nhiễm bệnh nặng đem ra khỏi vườn tiêu hủy để tăng ánh nắng và giảm độ ẩm. Bước 2 là phun thuốc đặc trị Norshield 86.2WG với liều lượng pha 250g cho phuy 200 lít nước, phun kỹ mặt trên, mặt dưới lá, quanh thân và cành. Thời điểm phun là ngay sau thu hoạch, mỗi đợt ra đọt non hoặc khi vừa xuất hiện bệnh. Bước 3 là theo dõi hiệu quả; các đốm rong sẽ khô, đổi màu xám xỉn và bong tróc khỏi vỏ. Nếu áp lực bệnh lớn hoặc mưa nhiều thì phun nhắc lại lần 2 sau 7-10 ngày.",
+  "source": "hoptrisummit.com-Bệnh đốm rong trên cây sầu riêng_ dấu hiệu & cách trị dứt điểm.pdf"
+ },
+ {
+  "id": "Q091",
+  "question": "Có thể dùng loại thuốc nào để xử lý, nên phun vào lúc nào và phun ở những vị trí nào?",
+  "disease_key": "Algal",
+  "disease": "Bệnh đốm rong (Cephaleuros virescens)",
+  "section": "treatment",
+  "cause_type": "algal",
+  "gold_chunk_ids": [
+   "domrong_118"
+  ],
+  "gold_context": "Tài liệu đề cập thuốc có gốc đồng và một số chế phẩm sinh học như những lựa chọn để xử lý bệnh đốm rong. Việc phun thuốc cần được thực hiện sau khi đã vệ sinh và cắt tỉa các phần cây bị bệnh nặng. Nguồn hướng dẫn tập trung xử lý cả hai mặt của lá và các cành lớn trên thân để tăng phạm vi tiếp xúc với vùng có bệnh. Thời điểm phun cũng được lưu ý là nên chọn lúc trời khô ráo để thuốc bám dính tốt hơn trên bề mặt cây. Ngoài xử lý trực tiếp, tài liệu còn đề cập việc duy trì hệ vi sinh vật có lợi trên bề mặt lá nhằm hỗ trợ hạn chế sự phát triển của tảo. Nội dung nguồn không đưa ra một liều lượng chung cho các thuốc gốc đồng, vì vậy khi áp dụng thực tế cần tuân theo hướng dẫn kỹ thuật của từng sản phẩm.",
+  "source": "nongnghiepecotech.com-Bệnh đốm rong trên sầu riêng Nguyên nhân phòng ngừa và cách trị.pdf"
+ },
+ {
+  "id": "Q092",
+  "question": "Biện pháp xử lý bắt đầu thế nào, và dùng loại thuốc nào sau khi tỉa cành?",
+  "disease_key": "Algal",
+  "disease": "Bệnh đốm rong (Cephaleuros virescens)",
+  "section": "treatment",
+  "cause_type": "algal",
+  "gold_chunk_ids": [
+   "domrong_117"
+  ],
+  "gold_context": "Biện pháp xử lý bệnh đốm rong theo tài liệu bắt đầu bằng việc vệ sinh và tạo sự thông thoáng cho vườn. Nhà vườn được khuyến nghị cắt tỉa các cành bị bệnh nặng và những cành vô hiệu nằm sát mặt đất để giảm các vị trí có thể duy trì bệnh và giúp không gian trong tán thông thoáng hơn. Sau khi tỉa cành, tài liệu đề cập việc sử dụng các loại thuốc có gốc đồng hoặc các chế phẩm sinh học chuyên dụng có khả năng làm sạch rong rêu. Khi phun, cần tập trung vào cả hai mặt lá và các cành lớn trên thân. Nguồn cũng lưu ý nên phun trong điều kiện trời khô ráo để thuốc bám dính tốt hơn trên bề mặt cây. Biện pháp xử lý vì vậy kết hợp giữa vệ sinh vườn, cắt tỉa và xử lý trực tiếp trên các bộ phận bị bệnh.",
+  "source": "nongnghiepecotech.com-Bệnh đốm rong trên sầu riêng Nguyên nhân phòng ngừa và cách trị.pdf"
+ },
+ {
+  "id": "Q093",
+  "question": "Pha dung dịch Siêu Áo Giáp theo tỉ lệ nào và phun với tần suất ra sao?",
+  "disease_key": "Algal",
+  "disease": "Bệnh đốm rong (Cephaleuros virescens)",
+  "section": "treatment",
+  "cause_type": "algal",
+  "gold_chunk_ids": [
+   "domrong_155"
+  ],
+  "gold_context": "Đối với việc điều trị bệnh đốm rong trên cây sầu riêng, người trồng cần tiến hành cắt tỉa các cành bị bệnh nặng và cắt bỏ cành sà sát đất để tạo độ thông thoáng cho vườn. Tiếp đó, sử dụng dung dịch Siêu Áo Giáp pha theo tỉ lệ 1 lít thuốc với 300 lít nước. Tiến hành phun ướt đều toàn bộ cây định kỳ 7 ngày một lần cho đến khi vết bệnh khô hoàn toàn.",
+  "source": "welofarm.vn-Giải Pháp Phòng Và Trị Đốm Rong Trên Sầu Riêng Hiệu Quả.pdf"
+ },
+ {
+  "id": "Q094",
+  "question": "Cần làm gì về thoát nước, cắt tỉa và vệ sinh vườn sau thu hoạch để quản lý bệnh?",
+  "disease_key": "Algal",
+  "disease": "Bệnh đốm rong (Cephaleuros virescens)",
+  "section": "prevention",
+  "cause_type": "algal",
+  "gold_chunk_ids": [
+   "domrong_142"
+  ],
+  "gold_context": "Biện pháp quản lý bệnh đốm rong được nguồn đề xuất gồm kết hợp cải thiện điều kiện vườn và xử lý các bộ phận bị bệnh. Trước hết, cần đào rãnh và mương để thoát nước tốt, tránh tình trạng nước bị ứ đọng trong vườn. Người trồng nên thường xuyên thăm vườn và cắt tỉa các cành già, cành bệnh và các cành nằm bên trong tán để duy trì ánh sáng và độ thông thoáng. Sau thu hoạch cần vệ sinh vườn và rửa vườn nhằm loại bỏ rong rêu, nấm và khuẩn. Nguồn cũng đề cập việc sử dụng sản phẩm Giáp đồng để phun toàn vườn nhằm xử lý rong rêu, nấm khuẩn. Các biện pháp canh tác trên được trình bày nhằm giảm điều kiện thuận lợi cho bệnh và hạn chế nguồn gây hại trong vườn.",
+  "source": "sinhhocchaua.com-Giải pháp phòng trừ bệnh đốm rong trên sầu riêng.pdf"
+ },
+ {
+  "id": "Q095",
+  "question": "Nên bón phân thế nào để cây tăng khả năng chống chịu bệnh?",
+  "disease_key": "Algal",
+  "disease": "Bệnh đốm rong (Cephaleuros virescens)",
+  "section": "prevention",
+  "cause_type": "algal",
+  "gold_chunk_ids": [
+   "domrong_020"
+  ],
+  "gold_context": "Dinh dưỡng cân đối được tài liệu xem là yếu tố hỗ trợ duy trì sức khỏe và khả năng chống chịu của cây. Việc bón phân nên cân đối NPK và các nguyên tố trung, vi lượng, đồng thời tránh bón thừa đạm vì có thể làm cây phát triển thân lá quá mức và mô cây mềm yếu. Tài liệu đề cập việc cung cấp đầy đủ lân, kali và một số nguyên tố như canxi, magie, kẽm, đồng để hỗ trợ cây phát triển khỏe mạnh. Phân hữu cơ như phân chuồng hoai mục, compost hoặc phân trùn quế được đề cập với vai trò cải tạo đất, tăng độ tơi xốp và hỗ trợ hệ vi sinh vật có lợi. Một số chế phẩm sinh học chứa Trichoderma spp. hoặc Bacillus subtilis cũng được đề cập như các lựa chọn có thể hỗ trợ sức khỏe cây và hạn chế một số mầm bệnh. Đây được xem là một phần của chiến lược phòng bệnh tổng hợp.",
+  "source": "Sầu Riêng Bị Đốm Rong _ Nguyên Nhân, Tác Hại Và Giải Pháp Trị Tận Gốc.pdf"
+ },
+ {
+  "id": "Q096",
+  "question": "Về giống, mật độ trồng và khoảng cách trồng tham khảo thì nên làm gì để phòng bệnh?",
+  "disease_key": "Algal",
+  "disease": "Bệnh đốm rong (Cephaleuros virescens)",
+  "section": "prevention",
+  "cause_type": "algal",
+  "gold_chunk_ids": [
+   "domrong_018"
+  ],
+  "gold_context": "Biện pháp phòng ngừa bệnh đốm rong trước hết tập trung vào kỹ thuật canh tác và quản lý vườn. Tài liệu khuyến nghị lựa chọn cây giống khỏe mạnh, có nguồn gốc rõ ràng và không mang sẵn mầm bệnh. Mật độ trồng cần phù hợp để cây có đủ không gian, ánh sáng và sự lưu thông không khí; tài liệu đưa ra khoảng cách tham khảo 8x8m hoặc 10x10m cho sầu riêng. Cần cắt tỉa định kỳ để loại bỏ cành già, cành bệnh, cành vượt và các cành bị khuất trong tán, giúp giảm độ ẩm và tăng độ thông thoáng. Cỏ dại cần được quản lý vì có thể cạnh tranh dinh dưỡng, làm tăng độ ẩm và tạo nơi trú ẩn cho dịch hại. Lá, cành và trái bệnh rụng xuống đất nên được thu gom và tiêu hủy để giảm nguồn bệnh tồn lưu trong vườn.",
+  "source": "Sầu Riêng Bị Đốm Rong _ Nguyên Nhân, Tác Hại Và Giải Pháp Trị Tận Gốc.pdf"
+ },
+ {
+  "id": "Q097",
+  "question": "Nếu bệnh nặng trong giai đoạn nuôi trái thì ảnh hưởng gì đến trái?",
+  "disease_key": "Algal",
+  "disease": "Bệnh đốm rong (Cephaleuros virescens)",
+  "section": "impact",
+  "cause_type": "algal",
+  "gold_chunk_ids": [
+   "domrong_070"
+  ],
+  "gold_context": "Nếu cây sầu riêng bị đốm rong nghiêm trọng trong giai đoạn nuôi trái, bệnh có thể ảnh hưởng đến quá trình phát triển của trái. Tài liệu ghi nhận nguy cơ rụng trái, giật hộc và sượng cơm. Bộ lá phát triển kém cũng có thể làm giảm năng suất và chất lượng nông sản.",
+  "source": "goldsunvn.com-HƯỚNG DẪN QUẢN LÝ ĐỐM RONG TRÊN SẦU RIÊNG.pdf"
+ },
+ {
+  "id": "Q098",
+  "question": "Về lâu dài, bệnh ảnh hưởng thế nào đến thân, cành và lá?",
+  "disease_key": "Algal",
+  "disease": "Bệnh đốm rong (Cephaleuros virescens)",
+  "section": "impact",
+  "cause_type": "algal",
+  "gold_chunk_ids": [
+   "domrong_147"
+  ],
+  "gold_context": "Theo nguồn, bệnh đốm rong trên cây sầu riêng không gây ảnh hưởng nghiêm trọng ngay lập tức nhưng có thể tạo ra những tác động tiêu cực về lâu dài đối với sức khỏe cây trồng và năng suất trái. Trên thân và cành, khi bệnh lan rộng, vỏ cành có thể bị nứt, khiến cây phát triển kém và trở nên còi cọc. Đối với lá, khi các vết bệnh phát triển mạnh và phủ kín mặt lá, bệnh có thể ảnh hưởng đến quá trình quang hợp và sinh trưởng của cây. Lá cũng có thể trở nên thô cứng, đồng thời cây sinh trưởng kém. Nguồn cho biết bệnh thường ít ảnh hưởng đến trái, tuy nhiên nếu bệnh trở nặng và không được can thiệp kịp thời thì bệnh có thể lây lan và ảnh hưởng đến trái sầu riêng. Vì vậy, dù tác động không xuất hiện nghiêm trọng ngay từ đầu, bệnh vẫn cần được quan tâm trong quá trình chăm sóc.",
+  "source": "taydojsc.com.vn-Phòng ngừa và điều trị bệnh đốm rong trên cây sầu riêng.pdf"
+ },
+ {
+  "id": "Q099",
+  "question": "Trong mùa mưa bệnh phát triển ra sao, và có thể gây hại ở vị trí nào khác?",
+  "disease_key": "Algal",
+  "disease": "Bệnh đốm rong (Cephaleuros virescens)",
+  "section": "progression",
+  "cause_type": "algal",
+  "gold_chunk_ids": [
+   "domrong_051"
+  ],
+  "gold_context": "Bệnh đốm rong có thể phát triển mạnh hơn trong mùa mưa khi các tản rong liên tục sinh sôi và tích nước từ môi trường bên ngoài. Khi tản rong phát triển nhiều, độ ẩm trên bề mặt cành tăng cao, từ đó tạo điều kiện để mầm bệnh phát tán và gây ảnh hưởng đến các vị trí khác trên cây. Tài liệu ghi nhận mầm bệnh có thể tấn công mắt cua, khiến mắt cua bị nín và khô đen. Trên lá, sự phát triển quá mức của tản rong có thể cản trở quang hợp, làm lá nhanh lão hóa và rụng. Trên cành và thân, tổn thương biểu bì có thể dẫn đến nứt vỏ và khô cành. Đối với trái, rong có thể tiếp tục bám trên vỏ và cuống, làm mất thẩm mỹ và tạo điều kiện thuận lợi cho đối tượng Phytophthora gây thối trái. Vì vậy, bệnh có thể gây ảnh hưởng trên nhiều bộ phận nếu không được kiểm soát.",
+  "source": "anphatnong.com.vn-ĐỐM RONG TRÊN CÂY SẦU RIÊNG - NGUYÊN NHÂN VÀ CÁCH XỬ LÝ (1).pdf"
+ },
+ {
+  "id": "Q100",
+  "question": "Bệnh có lây sang cây khác không, và có gây thối trái không?",
+  "disease_key": "Algal",
+  "disease": "Bệnh đốm rong (Cephaleuros virescens)",
+  "section": "faq",
+  "cause_type": "algal",
+  "gold_chunk_ids": [
+   "domrong_167"
+  ],
+  "gold_context": "Các giải đáp về bệnh đốm rong sầu riêng: Bệnh ít làm chết cây ngay nhưng làm hoại tử lá, giảm quang hợp khiến cây còi cọc suy yếu. Bệnh có lây sang các cây sầu riêng khác và nhiều cây ăn trái trong vườn (bưởi, xoài, chôm chôm, nhãn) qua gió và nước mưa. Mùa mưa bệnh nặng hơn do tảo ưa độ ẩm không khí cao để sinh sôi và nước mưa giúp phát tán bào tử nhanh. Bệnh đốm rong không gây thối trái trực tiếp như nấm Phytophthora, nhưng nếu tảo bám lên vỏ trái sẽ tạo các đốm xấu, làm mã trái xấu và giảm giá trị thương phẩm.",
+  "source": "hoptrisummit.com-Bệnh đốm rong trên cây sầu riêng_ dấu hiệu & cách trị dứt điểm.pdf"
+ }
+]

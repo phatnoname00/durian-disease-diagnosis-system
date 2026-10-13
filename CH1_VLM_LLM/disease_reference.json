@@ -1,0 +1,214 @@
+{
+  "Algal": {
+    "ten_benh": "Bệnh đốm rong (Cephaleuros virescens)",
+    "tac_nhan": "Bệnh đốm rong trên cây sầu riêng do tảo Cephaleuros virescens gây ra. Bệnh đốm rong (hay còn gọi là bệnh nấm rong hoặc bệnh tảo đỏ) trên cây sầu riêng do loại tảo có tên khoa học là Cephaleuros virescens gây ra. Bệnh đốm rong trên cây sầu riêng do loại tảo Cephaleuros virescens tấn công và ký sinh trên nhiều loại cây khác nhau.",
+    "trieu_chung": [
+      "Trên thân và cành sầu riêng, bệnh đốm rong ban đầu xuất hiện dưới dạng những đốm nhỏ có màu xanh, hình tròn hoặc hình bầu dục.",
+      "Vết bệnh có lớp tơ mịn màu xanh rêu, trong khi phần giữa có màu đỏ nâu.",
+      "Ở mặt dưới vùng bệnh, mô lá có thể bị hoại tử và xuất hiện các sợi tảo màu nâu đỏ.",
+      "Khi điều kiện thời tiết thích hợp, vết bệnh có thể lan rộng nhanh chóng.",
+      "Ban đầu, vết bệnh có thể là những chấm nhỏ màu xanh xám.",
+      "Trên thân và cành, bệnh thường bắt đầu bằng những chấm nhỏ có màu xanh, hình tròn hoặc bầu dục.",
+      "Lật mặt dưới lá sẽ thấy mô lá bị hoại tử và có các sợi tảo màu đỏ nâu mọc xuyên qua lá."
+    ],
+    "phong_ngua": [
+      "Lá rụng và tàn dư cây trồng dưới đất, quanh gốc cần được dọn dẹp nhằm góp phần giảm độ ẩm của đất và không khí trong khu vực trồng.",
+      "Đồng thời, không nên trồng cây với mật độ quá dày mà cần tạo khoảng trống để ánh nắng mặt trời có thể chiếu vào vườn và giúp giảm độ ẩm không khí.",
+      "Bên cạnh đó, cần thường xuyên kiểm tra độ pH của đất và giữ đất luôn tơi xốp nhằm tạo điều kiện cho các vi sinh vật có lợi phát triển.",
+      "Người trồng nên thường xuyên kiểm tra độ pH của đất và duy trì đất ở trạng thái tơi xốp.",
+      "Bên cạnh việc theo dõi cây, cần dọn dẹp lá rụng và tàn dư cây trồng dưới đất cũng như quanh gốc.",
+      "Cần cắt tỉa định kỳ để loại bỏ cành già, cành bệnh, cành vượt và các cành bị khuất trong tán, giúp giảm độ ẩm và tăng độ thông thoáng."
+    ],
+    "xu_ly": [
+      "Khi áp dụng biện pháp hóa học trong thực tế, cần tuân thủ hướng dẫn trên nhãn sản phẩm và quy định sử dụng thuốc bảo vệ thực vật hiện hành.",
+      "Khi sử dụng thuốc cần tuân thủ nguyên tắc 4 đúng gồm đúng thuốc, đúng lúc, đúng liều lượng hoặc nồng độ và đúng cách.",
+      "Trước hết cần phát hiện bệnh sớm và xử lý nhanh vì bệnh càng được phát hiện sớm thì việc kiểm soát càng dễ dàng.",
+      "Đây là định hướng quản lý tổng hợp thay vì chỉ tập trung vào việc phun thuốc.",
+      "Khi bệnh mới chớm xuất hiện hoặc chỉ xảy ra ở một số cây, một số cành với phạm vi hẹp, có thể áp dụng biện pháp cơ học và thủ công.",
+      "Không nên sử dụng bàn chải sắt vì có thể làm trầy xước và gây tổn thương vỏ cây."
+    ],
+    "hoat_chat_duoc_phep": [
+      "gốc đồng (nêu trong 8 tài liệu)",
+      "mancozeb (nêu trong 4 tài liệu)",
+      "copper (nêu trong 3 tài liệu)",
+      "propineb (nêu trong 3 tài liệu)",
+      "difenoconazole (nêu trong 2 tài liệu)"
+    ],
+    "nguon": "Tổng hợp từ RAG_with_cause_type.json (14 tài liệu)"
+  },
+  "Blight": {
+    "ten_benh": "Bệnh cháy lá, chưa xác định tác nhân (Leaf_Blight)",
+    "tac_nhan": "Tình trạng cháy lá trên cây sầu riêng có thể liên quan đến nhiều tác nhân khác nhau. Cháy lá sầu riêng có thể liên quan đến tác nhân nấm bệnh hoặc các yếu tố sinh lý và môi trường. Một trong những tác nhân trực tiếp gây cháy lá sầu riêng là nấm Rhizoctonia solani.",
+    "trieu_chung": [
+      "Triệu chứng ban đầu thường là những đốm nhỏ có dạng sũng nước, xuất hiện tại nhiều vị trí trên lá.",
+      "Bệnh cháy lá sầu riêng có thể xuất hiện trên cả lá già và lá non.",
+      "Với trường hợp bệnh cháy lá chết ngọn, ban đầu trên lá xuất hiện những đốm nhỏ có dạng sũng nước.",
+      "Hiện tượng cháy lá sầu riêng thường biểu hiện rõ trên lá già.",
+      "Ban đầu, trên lá hình thành những đốm nhỏ sũng nước.",
+      "Trên cây non, hiện tượng cháy lá thường xuất hiện ở phần ngọn, sau đó lá rụng, ngọn khô héo và có thể khiến cả cây chết.",
+      "Sau đó, các vết bệnh lan rộng dần, chuyển sang trạng thái khô khiến lá đổi màu nâu và quăn lại."
+    ],
+    "phong_ngua": [
+      "Để hạn chế hiện tượng cháy lá trên cây sầu riêng, người trồng cần duy trì độ ẩm phù hợp trong mùa khô và quản lý việc tưới nước một cách đều đặn.",
+      "Nên tưới nước vào buổi sáng sớm hoặc chiều mát, tránh tưới trong thời điểm nắng gắt.",
+      "Việc quản lý phân bón cũng rất quan trọng: phân cần được sử dụng theo độ tuổi và kích thước tán cây, rải theo hình chiếu của tán lá và chia thành nhiều lần bón với lượng nhỏ thay vì bón tập trung một lần.",
+      "Người trồng có thể tưới các chế phẩm vi sinh như Bio ECO và Tricho-bacte theo định kỳ từ một đến hai tháng mỗi lần.",
+      "Bên cạnh đó, cần thường xuyên theo dõi tình trạng của cây, đặc biệt trong những giai đoạn thời tiết bất lợi như nắng nóng kéo dài hoặc mùa mưa có độ ẩm cao.",
+      "Việc quản lý lượng phân bón, giữ ẩm phù hợp và tăng cường sử dụng phân hữu cơ vi sinh được đề cập nhằm giúp cây duy trì bộ lá khỏe mạnh."
+    ],
+    "xu_ly": [
+      "Khi áp dụng thực tế, cần đối chiếu nhãn thuốc và hướng dẫn chuyên môn phù hợp.",
+      "Vì vậy, khi áp dụng thực tế, người trồng cần kiểm tra nhãn thuốc, hoạt chất được đăng ký, liều lượng và hướng dẫn sử dụng phù hợp với cây sầu riêng.",
+      "Liệu trình được mô tả gồm hai lần phun, mỗi lần cách nhau khoảng bốn đến năm ngày.",
+      "Theo nội dung hướng dẫn, nếu chỉ xử lý vi khuẩn mà rầy vẫn còn tồn tại thì bệnh có thể tái phát.",
+      "Nội dung cũng nhấn mạnh rằng hai loại thuốc sử dụng trong hai lần phun nên khác gốc thuốc.",
+      "Biện pháp hóa học để phòng ngừa bệnh cháy lá và chết ngọn có thể sử dụng một số loại thuốc có gốc đồng, mancozeb hoặc metalaxyl."
+    ],
+    "hoat_chat_duoc_phep": [
+      "azoxystrobin (nêu trong 5 tài liệu)",
+      "difenoconazole (nêu trong 4 tài liệu)",
+      "gốc đồng (nêu trong 2 tài liệu)",
+      "trichoderma (nêu trong 2 tài liệu)"
+    ],
+    "nguon": "Tổng hợp từ RAG_with_cause_type.json (11 tài liệu)"
+  },
+  "Colletotrichum": {
+    "ten_benh": "Bệnh thán thư (Colletotrichum sp.)",
+    "tac_nhan": "Bệnh thán thư hại sầu riêng do nấm Colletotrichum spp. Nấm có thể lây lan thông qua bào tử và phát tán theo nhiều con đường như gió, mưa hoặc nước tưới. Bào tử nấm thán thư có thể phát tán theo nhiều con đường khác nhau.",
+    "trieu_chung": [
+      "Triệu chứng bệnh thán thư trên lá sầu riêng thường bắt đầu ở phần mép hoặc chóp lá rồi lan dần vào phía trong phiến lá.",
+      "Triệu chứng bệnh thán thư trên lá thường bắt đầu xuất hiện ở các lá già hoặc lá bánh tẻ.",
+      "Các đặc điểm về màu sắc, hình dạng, vị trí và quầng vàng là những dấu hiệu trực quan quan trọng khi nhận diện bệnh trên lá.",
+      "Các vết bệnh ban đầu thường xuất hiện ở chóp lá hoặc khu vực rìa mép lá rồi lan dần vào phía trong.",
+      "Triệu chứng bệnh thán thư trên lá thường xuất hiện trên lá già và lá trưởng thành.",
+      "Vết bệnh có thể có dạng tròn hoặc dạng bất định.",
+      "Vết bệnh có thể bắt đầu từ rìa hoặc chót lá rồi lan dần vào trong phiến lá."
+    ],
+    "phong_ngua": [
+      "Các biện pháp vệ sinh, tạo thông thoáng và quản lý nước được sử dụng kết hợp nhằm hạn chế điều kiện thuận lợi cho bệnh phát triển.",
+      "Kết hợp với việc tạo tán thông thoáng và vệ sinh vườn, quản lý nước và độ ẩm giúp hạn chế các điều kiện thuận lợi cho nấm gây bệnh phát triển.",
+      "Vào mùa mưa, cần cắt tỉa các cành tăm và cành vô hiệu nằm sâu trong tán để tăng độ thông thoáng và giúp ánh sáng đi vào bên trong tán cây.",
+      "Những cành già, cành mọc xiên, cành vô hiệu và cành khuất bên trong tán được loại bỏ nhằm giúp ánh sáng đi vào tán và tăng khả năng lưu thông không khí.",
+      "Việc tỉa cành tạo tán giúp tạo độ thông thoáng cho vườn và hạn chế độ ẩm, từ đó làm giảm điều kiện thuận lợi cho nấm bệnh phát triển.",
+      "Quản lý dinh dưỡng là một phần trong biện pháp phòng ngừa bệnh thán thư trên sầu riêng."
+    ],
+    "xu_ly": [
+      "Các hoạt chất được nêu gồm Tebuconazole, Difenoconazole, Azoxystrobin và Trifloxystrobin.",
+      "Khi bệnh chớm phát, các hoạt chất được đề cập gồm Azoxystrobin, Difenoconazole hoặc hỗn hợp Azoxystrobin + Difenoconazole.",
+      "Việc phun được thực hiện từ 2–3 lần, mỗi lần cách nhau khoảng 5–7 ngày.",
+      "Được sử dụng nhằm tác động lên nấm bệnh, trong khi Bacillus subtilis được đề cập với vai trò hỗ trợ phòng ngừa một số bệnh khác trên sầu riêng.",
+      "Việc xử lý được đặt trong bối cảnh bệnh mới chớm xuất hiện, đồng thời hướng dẫn phun trên cả phần thân, lá và khu vực đất dưới gốc.",
+      "Khi cơi đọt mới hé mở hoặc thời tiết có sương mù dày, việc phun phòng được mô tả là nhằm ngăn bào tử nấm nảy mầm và bảo vệ mô chưa bị nhiễm."
+    ],
+    "hoat_chat_duoc_phep": [
+      "mancozeb (nêu trong 4 tài liệu)",
+      "azoxystrobin (nêu trong 3 tài liệu)",
+      "bacillus (nêu trong 2 tài liệu)",
+      "difenoconazole (nêu trong 2 tài liệu)",
+      "tebuconazole (nêu trong 2 tài liệu)",
+      "trichoderma (nêu trong 2 tài liệu)",
+      "chlorothalonil (nêu trong 2 tài liệu)",
+      "propineb (nêu trong 2 tài liệu)"
+    ],
+    "nguon": "Tổng hợp từ RAG_with_cause_type.json (12 tài liệu)"
+  },
+  "Phomopsis": {
+    "ten_benh": "Bệnh đốm lá (Phomopsis sp.)",
+    "tac_nhan": "Nguyên nhân gây ra bệnh đốm lá sầu riêng là do nấm Phomopsis durionis gây ra. Nấm Phomopsis durionis là tác nhân chính gây ra bệnh đốm lá trên cây sầu riêng. Bệnh đốm lá gây hại trên cây sầu riêng do tác nhân nấm Phomopsis durionis gây ra.",
+    "trieu_chung": [
+      "Khi cây sầu riêng bị nhiễm bệnh đốm lá, triệu chứng ban đầu là xuất hiện các đốm nhỏ có màu vàng trên bề mặt lá.",
+      "Việc lá rụng nhiều làm giảm khả năng quang hợp, khiến cây kém phát triển và chậm lớn.",
+      "Dấu hiệu nhận biết rõ ràng nhất khi cây sầu riêng bị bệnh đốm lá là sự xuất hiện của các đốm nhỏ màu vàng trên bề mặt lá.",
+      "Việc rụng nhiều lá làm suy giảm khả năng quang hợp của cây, dẫn đến tình trạng cây sinh trưởng kém, còi cọc và chậm lớn.",
+      "Dấu hiệu đầu tiên khi nấm bệnh đốm lá tấn công cây sầu riêng là sự xuất hiện của những đốm nhỏ có màu vàng trên bề mặt lá, sau đó các đốm này chuyển dần sang màu nâu rồi dẫn đến hoại tử.",
+      "Triệu chứng bệnh đốm lá sầu riêng ban đầu là sự xuất hiện các đốm nhỏ li ti màu vàng nhạt ở mặt trên lá với kích thước chỉ bằng đầu kim.",
+      "Khi cây sầu riêng bị nhiễm bệnh đốm lá, trên bề mặt lá bắt đầu xuất hiện các vết bệnh có màu nâu, sau đó các vết này dần lan rộng khiến lá cây bị rụng."
+    ],
+    "phong_ngua": [
+      "Thường xuyên thăm vườn để phát hiện bệnh sớm.",
+      "Chăm sóc cây khỏe bằng cách bổ sung đầy đủ dinh dưỡng đa trung vi lượng, bón phân cân đối, không bón nhiều đạm và tăng cường phân hữu cơ vi sinh.",
+      "Biện pháp canh tác và sinh học phòng ngừa đốm lá sầu riêng: Trồng đúng mật độ, tránh để vườn quá dày.",
+      "Bổ sung dinh dưỡng cân đối đầy đủ đa trung vi lượng, tránh bón thừa đạm.",
+      "Biện pháp canh tác và sinh học phòng ngừa đốm lá sầu riêng bao gồm: Trồng cây với mật độ thích hợp, chọn giống sạch bệnh, cắt tỉa cành thông thoáng (nhất là cành sát đất, cành giao tán).",
+      "Biện pháp canh tác và sinh học phòng ngừa đốm lá sầu riêng: Bổ sung dinh dưỡng cân đối, tránh bón thừa đạm."
+    ],
+    "xu_ly": [
+      "Khi phát hiện cây sầu riêng bị bệnh đốm lá, bà con tiến hành cắt tỉa những cành lá bị bệnh nặng đem đi tiêu hủy để tránh lây lan.",
+      "Khi phát hiện lá bị bệnh đốm lá tấn công, nhà vườn cần nhanh chóng ngắt bỏ những lá bị bệnh đó đem đi tiêu hủy an toàn để tránh tình trạng bệnh lây lan trong vườn.",
+      "Đối với cây sầu riêng nhỏ từ 1 đến 2 năm, khi bệnh đốm lá mới xuất hiện nên tiến hành cắt bỏ và tiêu hủy ngay các lá bị bệnh để ngăn chặn sự lây lan.",
+      "Về biện pháp hóa học, khi cây vừa mới xuất hiện bệnh nên dùng thuốc chứa các hoạt chất Mancozeb + Metalaxyl (như Rorigold 720WP) phun đều trên lá 2 lần, mỗi lần cách nhau từ 5 đến 7 ngày để trị bệnh triệt để cho cây.",
+      "Để xử lý bệnh đốm lá sầu riêng, trên cây nhỏ từ 1 đến 2 năm nếu thấy bệnh mới xuất hiện có thể cắt bỏ và tiêu hủy các lá bệnh để tránh lây lan.",
+      "Tiến hành phun thuốc 2 lần, mỗi lần cách nhau từ 5 đến 7 ngày để điều trị triệt để bệnh cho cây sầu riêng."
+    ],
+    "hoat_chat_duoc_phep": [
+      "trichoderma (nêu trong 9 tài liệu)",
+      "mancozeb (nêu trong 6 tài liệu)",
+      "metalaxyl (nêu trong 5 tài liệu)",
+      "copper (nêu trong 3 tài liệu)",
+      "gốc đồng (nêu trong 3 tài liệu)",
+      "propiconazole (nêu trong 2 tài liệu)",
+      "bacillus (nêu trong 2 tài liệu)"
+    ],
+    "nguon": "Tổng hợp từ RAG_with_cause_type.json (17 tài liệu)"
+  },
+  "Rhizoctonia": {
+    "ten_benh": "Bệnh cháy lá, chết ngọn (Rhizoctonia sp.)",
+    "tac_nhan": "Bệnh cháy lá chết ngọn trên cây sầu riêng do nấm Rhizoctonia solani gây ra. Bệnh cháy lá – chết ngọn trên cây sầu riêng có thể do nhiều tác nhân nấm bệnh gây ra, bao gồm Rhizoctonia sp., Colletotrichum sp. Bệnh phát triển mạnh trong điều kiện mưa nhiều, độ ẩm không khí cao và nhiệt độ thích hợp khoảng 28°C.",
+    "trieu_chung": [
+      "Triệu chứng bệnh cháy lá chết ngọn có thể xuất hiện trên cả lá non và lá già của cây sầu riêng.",
+      "Ngoài triệu chứng trên lá, bệnh còn có thể tấn công thân non, khiến phần ngọn bị khô chết và có màu trắng xám.",
+      "Ở cành non, những lá bị bệnh có thể dính lại với nhau do sự phát triển của tơ nấm có tính kết dính, sau đó khô và chết.",
+      "Triệu chứng bệnh cháy lá chết ngọn trên cây sầu riêng có thể xuất hiện ở nhiều bộ phận khác nhau của cây.",
+      "Ngoài việc gây tổn thương trên lá, bệnh cháy lá và chết ngọn còn có thể tấn công phần thân non của cây sầu riêng.",
+      "Khi vết bệnh khô, màu sắc chuyển sang nâu sáng và phần rìa có màu nâu tối.",
+      "Khi các đốm bệnh khô đi, chúng chuyển sang màu nâu sáng với phần rìa màu nâu tối."
+    ],
+    "phong_ngua": [
+      "Các biện pháp canh tác cần được kết hợp với việc lựa chọn đất có khả năng thoát nước tốt.",
+      "Biện pháp canh tác được đề xuất nhằm hạn chế bệnh cháy lá – chết ngọn trên cây sầu riêng bao gồm lựa chọn đất phù hợp với độ pH khoảng 5,5–6,5, có khả năng thoát nước tốt và không bị ngập úng.",
+      "Các biện pháp canh tác gồm chọn đất cao ráo, có khả năng thoát nước tốt và tránh để vườn bị ngập úng.",
+      "Người trồng nên lựa chọn đất có tầng canh tác sâu, không quá nhiều sét, có khả năng thoát nước tốt và không bị ngập úng.",
+      "Việc bón phân cần cân đối giữa các chất dinh dưỡng, tránh sử dụng quá nhiều phân đạm, đặc biệt trong mùa mưa.",
+      "Việc bón phân cần được thực hiện cân đối giữa đạm, lân và kali, đồng thời tránh bón quá nhiều phân đạm."
+    ],
+    "xu_ly": [
+      "Khi sử dụng thuốc bảo vệ thực vật, người trồng cần đối chiếu nhãn sản phẩm, liều lượng được phép sử dụng và các yêu cầu an toàn hiện hành.",
+      "Cần kiểm tra nhãn sản phẩm và hướng dẫn sử dụng trước khi áp dụng thực tế.",
+      "Khi áp dụng thực tế, người trồng cần tuân thủ nhãn thuốc, hướng dẫn sử dụng và các yêu cầu an toàn đối với cây trồng.",
+      "Khi áp dụng thực tế, cần đối chiếu nhãn sản phẩm và hướng dẫn sử dụng hiện hành để bảo đảm phù hợp với cây trồng và điều kiện canh tác.",
+      "Khi sử dụng thuốc bảo vệ thực vật, người trồng cần tuân thủ nguyên tắc bốn đúng.",
+      "Liều lượng và cách sử dụng thực tế cần được đối chiếu với nhãn sản phẩm trước khi áp dụng."
+    ],
+    "hoat_chat_duoc_phep": [
+      "trichoderma (nêu trong 9 tài liệu)",
+      "difenoconazole (nêu trong 6 tài liệu)",
+      "azoxystrobin (nêu trong 5 tài liệu)",
+      "hexaconazole (nêu trong 5 tài liệu)",
+      "validamycin (nêu trong 4 tài liệu)",
+      "gốc đồng (nêu trong 4 tài liệu)",
+      "bacillus (nêu trong 3 tài liệu)",
+      "mancozeb (nêu trong 3 tài liệu)",
+      "oxychloride (nêu trong 2 tài liệu)",
+      "carbendazim (nêu trong 2 tài liệu)",
+      "metalaxyl (nêu trong 2 tài liệu)",
+      "propineb (nêu trong 2 tài liệu)"
+    ],
+    "nguon": "Tổng hợp từ RAG_with_cause_type.json (24 tài liệu)"
+  },
+  "Healthy": {
+    "ten_benh": "Lá khỏe mạnh",
+    "tac_nhan": "Không có tác nhân gây bệnh được ghi nhận trên lá.",
+    "trieu_chung": [
+      "Lá xanh đều, không có đốm bệnh, vết cháy khô, lớp tảo hay sợi nấm trên bề mặt lá.",
+      "Bề mặt lá nguyên vẹn, không biến dạng, không quăn lại, không rụng sớm bất thường."
+    ],
+    "phong_ngua": [
+      "Vệ sinh vườn, cắt tỉa cành tạo độ thông thoáng, bón phân cân đối và thường xuyên thăm vườn để phát hiện sớm dấu hiệu bệnh."
+    ],
+    "xu_ly": [
+      "Lá khỏe không cần phun thuốc trị bệnh; chỉ tiếp tục chăm sóc và theo dõi vườn."
+    ],
+    "hoat_chat_duoc_phep": [],
+    "nguon": "Tự soạn ngắn (RAG không có mục lá khỏe) - nên rà lại"
+  }
+}
